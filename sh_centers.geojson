@@ -1,0 +1,4607 @@
+{
+  "type" : "FeatureCollection",
+  "name" : "admin_raw",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27014,
+      "osm_node_id" : 43348147,
+      "feature_type" : "admin_centre",
+      "name" : "Schleswig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5653284, 54.51851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27016,
+      "osm_node_id" : 33100807,
+      "feature_type" : "admin_centre",
+      "name" : "Itzehoe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5172441, 53.919448 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27017,
+      "osm_node_id" : 43366937,
+      "feature_type" : "admin_centre",
+      "name" : "Rendsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6650076, 54.300292 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27019,
+      "osm_node_id" : 240085119,
+      "feature_type" : "admin_centre",
+      "name" : "Husum"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.0537941, 54.4854137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27020,
+      "osm_node_id" : 240033839,
+      "feature_type" : "admin_centre",
+      "name" : "Flensburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4333264, 54.7833021 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27021,
+      "osm_node_id" : 24487450,
+      "feature_type" : "admin_centre",
+      "name" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.135555, 54.3227085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27025,
+      "osm_node_id" : 34482099,
+      "feature_type" : "admin_centre",
+      "name" : "Eutin"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6159077, 54.1364642 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27026,
+      "osm_node_id" : 240100817,
+      "feature_type" : "admin_centre",
+      "name" : "Plön"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.41771, 54.158082 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27027,
+      "osm_node_id" : 25327151,
+      "feature_type" : "admin_centre",
+      "name" : "Lübeck"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.684738, 53.866444 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 27028,
+      "osm_node_id" : 240037870,
+      "feature_type" : "admin_centre",
+      "name" : "Heide (Holstein)"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.0928251, 54.1948848 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 51529,
+      "osm_node_id" : 24487450,
+      "feature_type" : "admin_centre",
+      "name" : "Kiel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.135555, 54.3227085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 53584,
+      "osm_node_id" : 195815236,
+      "feature_type" : "admin_centre",
+      "name" : "Uetersen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.669827, 53.6851608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 62408,
+      "osm_node_id" : 31167256,
+      "feature_type" : "admin_centre",
+      "name" : "Pinneberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7967897, 53.6615177 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 62528,
+      "osm_node_id" : 25076969,
+      "feature_type" : "admin_centre",
+      "name" : "Neumünster"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9815377, 54.0757442 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 62546,
+      "osm_node_id" : 96450067,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Oldesloe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3733692, 53.8096562 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 62703,
+      "osm_node_id" : 31052027,
+      "feature_type" : "admin_centre",
+      "name" : "Ratzeburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.774288, 53.7011061 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 62733,
+      "osm_node_id" : 7004755551,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Segeberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3044775, 53.9369345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 152790,
+      "osm_node_id" : 33100807,
+      "feature_type" : "admin_centre",
+      "name" : "Itzehoe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5172441, 53.919448 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 176736,
+      "osm_node_id" : 240061676,
+      "feature_type" : "admin_centre",
+      "name" : "Schönberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3760772, 54.3911076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 176741,
+      "osm_node_id" : 370662876,
+      "feature_type" : "admin_centre",
+      "name" : "Fargau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3784808, 54.3186294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 190839,
+      "osm_node_id" : 190967710,
+      "feature_type" : "admin_centre",
+      "name" : "Eckernförde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8374947, 54.4716456 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 288261,
+      "osm_node_id" : 240113189,
+      "feature_type" : "admin_centre",
+      "name" : "Laboe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2256616, 54.4022528 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 289960,
+      "osm_node_id" : 240090296,
+      "feature_type" : "admin_centre",
+      "name" : "Selent"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.4288232, 54.2901039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 289985,
+      "osm_node_id" : 240057789,
+      "feature_type" : "admin_centre",
+      "name" : "Heikendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2026135, 54.3692543 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 299456,
+      "osm_node_id" : 240088313,
+      "feature_type" : "admin_centre",
+      "name" : "Mönkeberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1925985, 54.3503738 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 299457,
+      "osm_node_id" : 240032006,
+      "feature_type" : "admin_centre",
+      "name" : "Schönkirchen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2231105, 54.3371728 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310382,
+      "osm_node_id" : 1625481102,
+      "feature_type" : "admin_centre",
+      "name" : "Schwentinental"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2254279, 54.2900155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310389,
+      "osm_node_id" : 240086245,
+      "feature_type" : "admin_centre",
+      "name" : "Preetz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2818352, 54.2359233 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310392,
+      "osm_node_id" : 240100843,
+      "feature_type" : "admin_centre",
+      "name" : "Klein Barkau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1340041, 54.2216061 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310393,
+      "osm_node_id" : 35244238,
+      "feature_type" : "admin_centre",
+      "name" : "Großbarkau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1684035, 54.225355 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310394,
+      "osm_node_id" : 240055188,
+      "feature_type" : "admin_centre",
+      "name" : "Kirchbarkau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1461515, 54.2102639 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310396,
+      "osm_node_id" : 240030955,
+      "feature_type" : "admin_centre",
+      "name" : "Warnau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1617611, 54.1876873 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310402,
+      "osm_node_id" : 240100817,
+      "feature_type" : "admin_centre",
+      "name" : "Plön"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.41771, 54.158082 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310403,
+      "osm_node_id" : 240105905,
+      "feature_type" : "admin_centre",
+      "name" : "Bösdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.4899217, 54.1400045 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310405,
+      "osm_node_id" : 240086913,
+      "feature_type" : "admin_centre",
+      "name" : "Ascheberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3423409, 54.1483357 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 310411,
+      "osm_node_id" : 240117504,
+      "feature_type" : "admin_centre",
+      "name" : "Bönebüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0588094, 54.0792518 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 324694,
+      "osm_node_id" : 240127522,
+      "feature_type" : "admin_centre",
+      "name" : "Aumühle"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3136952, 53.5261786 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 324756,
+      "osm_node_id" : 240122984,
+      "feature_type" : "admin_centre",
+      "name" : "Wentorf bei Hamburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.25, 53.5 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 325771,
+      "osm_node_id" : 30424707,
+      "feature_type" : "admin_centre",
+      "name" : "Geesthacht"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3678235, 53.4374683 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382408,
+      "osm_node_id" : 34482099,
+      "feature_type" : "admin_centre",
+      "name" : "Eutin"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6159077, 54.1364642 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382411,
+      "osm_node_id" : 148098827,
+      "feature_type" : "admin_centre",
+      "name" : "Lensahn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8859981, 54.2208531 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382419,
+      "osm_node_id" : 240051398,
+      "feature_type" : "admin_centre",
+      "name" : "Heiligenhafen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9809235, 54.3717445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382426,
+      "osm_node_id" : 240130355,
+      "feature_type" : "admin_centre",
+      "name" : "Dahme"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0852528, 54.2213817 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382428,
+      "osm_node_id" : 100661303,
+      "feature_type" : "admin_centre",
+      "name" : "Grömitz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9588499, 54.1441095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382442,
+      "osm_node_id" : 240123021,
+      "feature_type" : "admin_centre",
+      "name" : "Ahrensbök"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.5752645, 54.0130295 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382446,
+      "osm_node_id" : 28257616,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Schwartau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6978692, 53.9196435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 382448,
+      "osm_node_id" : 33471522,
+      "feature_type" : "admin_centre",
+      "name" : "Burg auf Fehmarn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1969428, 54.4394204 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 405631,
+      "osm_node_id" : 240095952,
+      "feature_type" : "admin_centre",
+      "name" : "Trappenkamp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.217033, 54.0389776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 422634,
+      "osm_node_id" : 27453538,
+      "feature_type" : "admin_centre",
+      "name" : "Norderstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9891914, 53.7089898 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 423189,
+      "osm_node_id" : 240097491,
+      "feature_type" : "admin_centre",
+      "name" : "Borstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7978288, 53.9692357 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 423190,
+      "osm_node_id" : 240119556,
+      "feature_type" : "admin_centre",
+      "name" : "Hardebek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8684931, 53.988138 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 423191,
+      "osm_node_id" : 240050649,
+      "feature_type" : "admin_centre",
+      "name" : "Armstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.851741, 53.9702851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 423223,
+      "osm_node_id" : 240052046,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Bramstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.88333, 53.9167 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 423226,
+      "osm_node_id" : 240057887,
+      "feature_type" : "admin_centre",
+      "name" : "Boostedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0286515, 54.0076948 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 442762,
+      "osm_node_id" : 240042228,
+      "feature_type" : "admin_centre",
+      "name" : "Henstedt-Ulzburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9808134, 53.7926888 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 442763,
+      "osm_node_id" : 240106462,
+      "feature_type" : "admin_centre",
+      "name" : "Ellerau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9166665, 53.7500324 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 442912,
+      "osm_node_id" : 7004755551,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Segeberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3044775, 53.9369345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 442927,
+      "osm_node_id" : 240061820,
+      "feature_type" : "admin_centre",
+      "name" : "Blunk"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3121951, 54.0102315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443192,
+      "osm_node_id" : 240050532,
+      "feature_type" : "admin_centre",
+      "name" : "Seestermühe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5639384, 53.7041688 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443283,
+      "osm_node_id" : 240048199,
+      "feature_type" : "admin_centre",
+      "name" : "Groß Nordende"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.65, 53.7 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443285,
+      "osm_node_id" : 240023803,
+      "feature_type" : "admin_centre",
+      "name" : "Heidgraben"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6848238, 53.7058525 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443298,
+      "osm_node_id" : 240047136,
+      "feature_type" : "admin_centre",
+      "name" : "Seester"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5972582, 53.7175933 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443299,
+      "osm_node_id" : 240053360,
+      "feature_type" : "admin_centre",
+      "name" : "Raa-Besenbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6172561, 53.7584202 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443302,
+      "osm_node_id" : 240036785,
+      "feature_type" : "admin_centre",
+      "name" : "Elmshorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6524559, 53.7532486 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443486,
+      "osm_node_id" : 240033725,
+      "feature_type" : "admin_centre",
+      "name" : "Halstenbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8499933, 53.6332984 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443487,
+      "osm_node_id" : 31167256,
+      "feature_type" : "admin_centre",
+      "name" : "Pinneberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7967897, 53.6615177 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443704,
+      "osm_node_id" : 1673442696,
+      "feature_type" : "admin_centre",
+      "name" : "Bönningstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9057531, 53.6645895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443705,
+      "osm_node_id" : 240082509,
+      "feature_type" : "admin_centre",
+      "name" : "Hasloh"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9168991, 53.693295 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443749,
+      "osm_node_id" : 240047098,
+      "feature_type" : "admin_centre",
+      "name" : "Quickborn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.902929, 53.732895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443755,
+      "osm_node_id" : 240085129,
+      "feature_type" : "admin_centre",
+      "name" : "Rellingen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8299063, 53.6512359 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443947,
+      "osm_node_id" : 240114248,
+      "feature_type" : "admin_centre",
+      "name" : "Sparrieshoop"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.683364, 53.7847143 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443949,
+      "osm_node_id" : 240057546,
+      "feature_type" : "admin_centre",
+      "name" : "Kölln-Reisiek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.692135, 53.7575161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 443950,
+      "osm_node_id" : 240085428,
+      "feature_type" : "admin_centre",
+      "name" : "Klein Nordende"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6567323, 53.7241659 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444135,
+      "osm_node_id" : 240112284,
+      "feature_type" : "admin_centre",
+      "name" : "Groß Offenseth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.729477, 53.817776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444140,
+      "osm_node_id" : 240066955,
+      "feature_type" : "admin_centre",
+      "name" : "Barmstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7703927, 53.7889203 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444180,
+      "osm_node_id" : 240048157,
+      "feature_type" : "admin_centre",
+      "name" : "Lutzhorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7770367, 53.8254105 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444181,
+      "osm_node_id" : 240095847,
+      "feature_type" : "admin_centre",
+      "name" : "Brande-Hörnerkirchen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7082766, 53.8491092 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444182,
+      "osm_node_id" : 240110790,
+      "feature_type" : "admin_centre",
+      "name" : "Westerhorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6802379, 53.8525706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444183,
+      "osm_node_id" : 240126405,
+      "feature_type" : "admin_centre",
+      "name" : "Osterhorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7016378, 53.8667237 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 444184,
+      "osm_node_id" : 240122281,
+      "feature_type" : "admin_centre",
+      "name" : "Bokel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7342094, 53.86666 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 445505,
+      "osm_node_id" : 240039762,
+      "feature_type" : "admin_centre",
+      "name" : "Hasenkrug"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8501864, 53.9847393 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447188,
+      "osm_node_id" : 240120354,
+      "feature_type" : "admin_centre",
+      "name" : "Altenmoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5712327, 53.7656611 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447189,
+      "osm_node_id" : 240051400,
+      "feature_type" : "admin_centre",
+      "name" : "Neuendorf bei Elmshorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5580354, 53.7356716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447190,
+      "osm_node_id" : 240106112,
+      "feature_type" : "admin_centre",
+      "name" : "Kollmar"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4951507, 53.7327711 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447191,
+      "osm_node_id" : 240028827,
+      "feature_type" : "admin_centre",
+      "name" : "Herzhorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4845648, 53.7871774 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447192,
+      "osm_node_id" : 240058181,
+      "feature_type" : "admin_centre",
+      "name" : "Engelbrechtsche Wildnis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4477073, 53.7862552 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447193,
+      "osm_node_id" : 240061927,
+      "feature_type" : "admin_centre",
+      "name" : "Kiebitzreihe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6172374, 53.7827379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447194,
+      "osm_node_id" : 240102109,
+      "feature_type" : "admin_centre",
+      "name" : "Horst"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6182581, 53.8111615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447195,
+      "osm_node_id" : 240128918,
+      "feature_type" : "admin_centre",
+      "name" : "Hohenfelde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6243131, 53.8443378 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447196,
+      "osm_node_id" : 240122541,
+      "feature_type" : "admin_centre",
+      "name" : "Sommerland"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5470404, 53.7984929 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447197,
+      "osm_node_id" : 240064835,
+      "feature_type" : "admin_centre",
+      "name" : "Borsfleth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4307214, 53.826641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447198,
+      "osm_node_id" : 240121585,
+      "feature_type" : "admin_centre",
+      "name" : "Krempdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4614554, 53.8266852 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447199,
+      "osm_node_id" : 240030164,
+      "feature_type" : "admin_centre",
+      "name" : "Blomesche Wildnis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4506092, 53.8056131 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447206,
+      "osm_node_id" : 96128316,
+      "feature_type" : "admin_centre",
+      "name" : "Glückstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4238157, 53.787927 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447255,
+      "osm_node_id" : 240087805,
+      "feature_type" : "admin_centre",
+      "name" : "Süderau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.513058, 53.82085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447312,
+      "osm_node_id" : 240100589,
+      "feature_type" : "admin_centre",
+      "name" : "Rethwisch"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5917643, 53.8664951 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447313,
+      "osm_node_id" : 240109748,
+      "feature_type" : "admin_centre",
+      "name" : "Neuenbrook"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5331668, 53.8614266 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447314,
+      "osm_node_id" : 240028736,
+      "feature_type" : "admin_centre",
+      "name" : "Krempe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.489977, 53.8360392 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447315,
+      "osm_node_id" : 240028437,
+      "feature_type" : "admin_centre",
+      "name" : "Elskop"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4981417, 53.8136649 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447344,
+      "osm_node_id" : 240052561,
+      "feature_type" : "admin_centre",
+      "name" : "Bahrenfleth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4408474, 53.8745951 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447345,
+      "osm_node_id" : 240033176,
+      "feature_type" : "admin_centre",
+      "name" : "Dägeling"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5309763, 53.8784162 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447346,
+      "osm_node_id" : 240029439,
+      "feature_type" : "admin_centre",
+      "name" : "Grevenkop"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5357879, 53.8420869 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447347,
+      "osm_node_id" : 240075565,
+      "feature_type" : "admin_centre",
+      "name" : "Krempermoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4806723, 53.8767938 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447348,
+      "osm_node_id" : 240059255,
+      "feature_type" : "admin_centre",
+      "name" : "Kremperheide"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4794476, 53.8813048 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447770,
+      "osm_node_id" : 240041611,
+      "feature_type" : "admin_centre",
+      "name" : "Wewelsfleth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4013741, 53.8435686 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447771,
+      "osm_node_id" : 240116842,
+      "feature_type" : "admin_centre",
+      "name" : "Brokdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3181239, 53.8650137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447772,
+      "osm_node_id" : 240126911,
+      "feature_type" : "admin_centre",
+      "name" : "Beidenfleth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4141734, 53.8788485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 447773,
+      "osm_node_id" : 240074756,
+      "feature_type" : "admin_centre",
+      "name" : "Hodorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4272918, 53.9044942 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448011,
+      "osm_node_id" : 240114221,
+      "feature_type" : "admin_centre",
+      "name" : "Sankt Margarethen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2539471, 53.8921754 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448012,
+      "osm_node_id" : 240069802,
+      "feature_type" : "admin_centre",
+      "name" : "Büttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2284119, 53.899972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448013,
+      "osm_node_id" : 240069711,
+      "feature_type" : "admin_centre",
+      "name" : "Kudensee"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2129736, 53.9302087 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448014,
+      "osm_node_id" : 240063027,
+      "feature_type" : "admin_centre",
+      "name" : "Landscheide"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2527501, 53.9202626 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448015,
+      "osm_node_id" : 240042092,
+      "feature_type" : "admin_centre",
+      "name" : "Ecklak"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2624893, 53.9539733 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448016,
+      "osm_node_id" : 240101462,
+      "feature_type" : "admin_centre",
+      "name" : "Aebtissinwisch"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.289134, 53.9675809 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448018,
+      "osm_node_id" : 240040606,
+      "feature_type" : "admin_centre",
+      "name" : "Neuendorf-Sachsenbande"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3285219, 53.9606737 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448019,
+      "osm_node_id" : 240093879,
+      "feature_type" : "admin_centre",
+      "name" : "Nortorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3280065, 53.9137339 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448020,
+      "osm_node_id" : 240029827,
+      "feature_type" : "admin_centre",
+      "name" : "Wilster"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3741366, 53.9233519 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448021,
+      "osm_node_id" : 240041124,
+      "feature_type" : "admin_centre",
+      "name" : "Dammfleth"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3630538, 53.8969209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448544,
+      "osm_node_id" : 240070258,
+      "feature_type" : "admin_centre",
+      "name" : "Vaalermoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3312564, 53.9782218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448545,
+      "osm_node_id" : 240051013,
+      "feature_type" : "admin_centre",
+      "name" : "Krummendiek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4174204, 53.945817 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448556,
+      "osm_node_id" : 240069337,
+      "feature_type" : "admin_centre",
+      "name" : "Moorhusen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3883529, 53.9604883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448557,
+      "osm_node_id" : 240123035,
+      "feature_type" : "admin_centre",
+      "name" : "Kleve"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4022126, 53.9675245 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448558,
+      "osm_node_id" : 240106666,
+      "feature_type" : "admin_centre",
+      "name" : "Nutteln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3867184, 53.9877634 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448559,
+      "osm_node_id" : 240108764,
+      "feature_type" : "admin_centre",
+      "name" : "Oldendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4586422, 53.9535099 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448603,
+      "osm_node_id" : 240070684,
+      "feature_type" : "admin_centre",
+      "name" : "Huje"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4345913, 53.9768336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448604,
+      "osm_node_id" : 240108761,
+      "feature_type" : "admin_centre",
+      "name" : "Mehlbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4346536, 54.0045912 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448605,
+      "osm_node_id" : 240050092,
+      "feature_type" : "admin_centre",
+      "name" : "Kaaks"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4700297, 53.9900073 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448606,
+      "osm_node_id" : 240036902,
+      "feature_type" : "admin_centre",
+      "name" : "Ottenbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5064646, 53.9722522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448608,
+      "osm_node_id" : 240031435,
+      "feature_type" : "admin_centre",
+      "name" : "Vaale"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3764292, 53.9986888 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448707,
+      "osm_node_id" : 31091702,
+      "feature_type" : "admin_centre",
+      "name" : "Wacken"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3765998, 54.0198564 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448708,
+      "osm_node_id" : 240059170,
+      "feature_type" : "admin_centre",
+      "name" : "Heiligenstedtenerkamp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4663342, 53.8995053 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448709,
+      "osm_node_id" : 240109169,
+      "feature_type" : "admin_centre",
+      "name" : "Gribbohm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3475551, 54.0289675 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448710,
+      "osm_node_id" : 240081626,
+      "feature_type" : "admin_centre",
+      "name" : "Bekmünde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4636639, 53.9284821 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448711,
+      "osm_node_id" : 240128244,
+      "feature_type" : "admin_centre",
+      "name" : "Landrecht"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4091923, 53.9124948 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448712,
+      "osm_node_id" : 240069996,
+      "feature_type" : "admin_centre",
+      "name" : "Bekdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4239963, 53.9378935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448713,
+      "osm_node_id" : 240114885,
+      "feature_type" : "admin_centre",
+      "name" : "Stördorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4145995, 53.9135392 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448761,
+      "osm_node_id" : 240130123,
+      "feature_type" : "admin_centre",
+      "name" : "Holstenniendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3480997, 54.0416761 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448762,
+      "osm_node_id" : 240114652,
+      "feature_type" : "admin_centre",
+      "name" : "Besdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3601957, 54.0500707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448763,
+      "osm_node_id" : 240074094,
+      "feature_type" : "admin_centre",
+      "name" : "Bokhorst"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4004961, 54.0585233 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448764,
+      "osm_node_id" : 240038972,
+      "feature_type" : "admin_centre",
+      "name" : "Bokelrehm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.386132, 54.0383242 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448765,
+      "osm_node_id" : 240083540,
+      "feature_type" : "admin_centre",
+      "name" : "Agethorst"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4357191, 54.0194351 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448766,
+      "osm_node_id" : 240053930,
+      "feature_type" : "admin_centre",
+      "name" : "Kaisborstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4705119, 54.0174731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448767,
+      "osm_node_id" : 240056170,
+      "feature_type" : "admin_centre",
+      "name" : "Hadenfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4560662, 54.0335154 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448769,
+      "osm_node_id" : 240046050,
+      "feature_type" : "admin_centre",
+      "name" : "Nienbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4153742, 54.0305924 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448770,
+      "osm_node_id" : 240073193,
+      "feature_type" : "admin_centre",
+      "name" : "Aasbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4386984, 54.0654826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448771,
+      "osm_node_id" : 240062914,
+      "feature_type" : "admin_centre",
+      "name" : "Warringholz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4643056, 54.0806591 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 448772,
+      "osm_node_id" : 240080007,
+      "feature_type" : "admin_centre",
+      "name" : "Schenefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4811676, 54.0459896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450062,
+      "osm_node_id" : 240126094,
+      "feature_type" : "admin_centre",
+      "name" : "Silzen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6350723, 54.0286052 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450063,
+      "osm_node_id" : 240109179,
+      "feature_type" : "admin_centre",
+      "name" : "Peissen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6095177, 54.0235524 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450064,
+      "osm_node_id" : 240102303,
+      "feature_type" : "admin_centre",
+      "name" : "Reher"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5734178, 54.0676158 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450065,
+      "osm_node_id" : 240078626,
+      "feature_type" : "admin_centre",
+      "name" : "Poyenberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6898132, 54.0412803 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450066,
+      "osm_node_id" : 240058136,
+      "feature_type" : "admin_centre",
+      "name" : "Christinenthal"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5334631, 54.0533916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450067,
+      "osm_node_id" : 240082909,
+      "feature_type" : "admin_centre",
+      "name" : "Rade"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.741785, 54.0006513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450068,
+      "osm_node_id" : 240093123,
+      "feature_type" : "admin_centre",
+      "name" : "Hennstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.71924, 54.0308741 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450069,
+      "osm_node_id" : 2368201834,
+      "feature_type" : "admin_centre",
+      "name" : "Sarlhusen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7915746, 54.0233899 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450070,
+      "osm_node_id" : 240051820,
+      "feature_type" : "admin_centre",
+      "name" : "Wiedenborstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7621486, 54.0430506 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450071,
+      "osm_node_id" : 240079781,
+      "feature_type" : "admin_centre",
+      "name" : "Willenscharen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8032657, 54.0132828 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450072,
+      "osm_node_id" : 240049116,
+      "feature_type" : "admin_centre",
+      "name" : "Oldenborstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5132823, 54.0628316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450073,
+      "osm_node_id" : 240040982,
+      "feature_type" : "admin_centre",
+      "name" : "Puls"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5156084, 54.0835679 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450074,
+      "osm_node_id" : 240049595,
+      "feature_type" : "admin_centre",
+      "name" : "Looft"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5211694, 54.0275096 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450075,
+      "osm_node_id" : 240074870,
+      "feature_type" : "admin_centre",
+      "name" : "Pöschendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4885269, 54.0368925 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450076,
+      "osm_node_id" : 240054933,
+      "feature_type" : "admin_centre",
+      "name" : "Drage"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5193297, 54.0042722 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450214,
+      "osm_node_id" : 240115039,
+      "feature_type" : "admin_centre",
+      "name" : "Lockstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6853662, 54.0040396 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450215,
+      "osm_node_id" : 240035312,
+      "feature_type" : "admin_centre",
+      "name" : "Oeschebüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7214615, 53.9892355 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450216,
+      "osm_node_id" : 240034573,
+      "feature_type" : "admin_centre",
+      "name" : "Hohenaspe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5276555, 53.9891435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450217,
+      "osm_node_id" : 240128994,
+      "feature_type" : "admin_centre",
+      "name" : "Schlotfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5822177, 53.9555414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450218,
+      "osm_node_id" : 240118397,
+      "feature_type" : "admin_centre",
+      "name" : "Hohenlockstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.61667, 53.9667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450219,
+      "osm_node_id" : 240026629,
+      "feature_type" : "admin_centre",
+      "name" : "Fitzbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7711953, 54.0027011 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450220,
+      "osm_node_id" : 831607921,
+      "feature_type" : "admin_centre",
+      "name" : "Störkathen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7563732, 53.9799298 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450221,
+      "osm_node_id" : 240060755,
+      "feature_type" : "admin_centre",
+      "name" : "Brokstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8220486, 53.9900766 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450222,
+      "osm_node_id" : 240059766,
+      "feature_type" : "admin_centre",
+      "name" : "Quarnstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7866367, 53.954381 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450223,
+      "osm_node_id" : 240085857,
+      "feature_type" : "admin_centre",
+      "name" : "Rosdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7272251, 53.9776685 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450224,
+      "osm_node_id" : 329121027,
+      "feature_type" : "admin_centre",
+      "name" : "Kellinghusen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7188996, 53.949549 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450225,
+      "osm_node_id" : 33100786,
+      "feature_type" : "admin_centre",
+      "name" : "Mühlenbarbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6710296, 53.956609 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450226,
+      "osm_node_id" : 240098095,
+      "feature_type" : "admin_centre",
+      "name" : "Lohbarbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6361494, 53.9459971 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450227,
+      "osm_node_id" : 240124021,
+      "feature_type" : "admin_centre",
+      "name" : "Winseldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6065053, 53.9446468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450512,
+      "osm_node_id" : 240090678,
+      "feature_type" : "admin_centre",
+      "name" : "Breitenburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5597438, 53.9005114 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450513,
+      "osm_node_id" : 240026689,
+      "feature_type" : "admin_centre",
+      "name" : "Wittenbergen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6824402, 53.9338224 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450514,
+      "osm_node_id" : 240123119,
+      "feature_type" : "admin_centre",
+      "name" : "Auufer"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6901587, 53.9296235 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450517,
+      "osm_node_id" : 33100764,
+      "feature_type" : "admin_centre",
+      "name" : "Wrist"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7476414, 53.9311697 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450518,
+      "osm_node_id" : 240078361,
+      "feature_type" : "admin_centre",
+      "name" : "Oelixdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5694781, 53.9269241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450519,
+      "osm_node_id" : 188753414,
+      "feature_type" : "admin_centre",
+      "name" : "Münsterdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5370885, 53.9024706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450520,
+      "osm_node_id" : 240119708,
+      "feature_type" : "admin_centre",
+      "name" : "Lägerdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5767969, 53.8865297 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450521,
+      "osm_node_id" : 240052101,
+      "feature_type" : "admin_centre",
+      "name" : "Kronsmoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6015111, 53.9081846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450522,
+      "osm_node_id" : 240122490,
+      "feature_type" : "admin_centre",
+      "name" : "Westermoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6167637, 53.9130314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450523,
+      "osm_node_id" : 240033284,
+      "feature_type" : "admin_centre",
+      "name" : "Breitenberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6391336, 53.9237165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 450524,
+      "osm_node_id" : 240085813,
+      "feature_type" : "admin_centre",
+      "name" : "Moordiek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6514611, 53.9131258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 452243,
+      "osm_node_id" : 240073617,
+      "feature_type" : "admin_centre",
+      "name" : "Heiligenstedten"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4697982, 53.9313413 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 453328,
+      "osm_node_id" : 240117742,
+      "feature_type" : "admin_centre",
+      "name" : "Kollmoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.59874, 53.9227193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 453746,
+      "osm_node_id" : 30767290,
+      "feature_type" : "admin_centre",
+      "name" : "Ahrensburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2358999, 53.6736529 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 454195,
+      "osm_node_id" : 60438233,
+      "feature_type" : "admin_centre",
+      "name" : "Großhansdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2835977, 53.6635561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 454248,
+      "osm_node_id" : 240100094,
+      "feature_type" : "admin_centre",
+      "name" : "Glinde"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.213583, 53.5411468 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 532325,
+      "osm_node_id" : 96450067,
+      "feature_type" : "admin_centre",
+      "name" : "Bad Oldesloe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3733692, 53.8096562 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 532394,
+      "osm_node_id" : 240057038,
+      "feature_type" : "admin_centre",
+      "name" : "Mönkhagen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.560138, 53.9003044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 532400,
+      "osm_node_id" : 1328650368,
+      "feature_type" : "admin_centre",
+      "name" : "Heilshoop"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.5318857, 53.8874534 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548546,
+      "osm_node_id" : 240053037,
+      "feature_type" : "admin_centre",
+      "name" : "Emkendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8470685, 54.2623019 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548550,
+      "osm_node_id" : 240053003,
+      "feature_type" : "admin_centre",
+      "name" : "Dätgen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9313829, 54.1804173 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548551,
+      "osm_node_id" : 240069097,
+      "feature_type" : "admin_centre",
+      "name" : "Borgdorf-Seedorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8785609, 54.1775026 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548553,
+      "osm_node_id" : 240088212,
+      "feature_type" : "admin_centre",
+      "name" : "Ellerdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8399788, 54.1929895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548554,
+      "osm_node_id" : 240110478,
+      "feature_type" : "admin_centre",
+      "name" : "Bokel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7940518, 54.215784 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548555,
+      "osm_node_id" : 240107075,
+      "feature_type" : "admin_centre",
+      "name" : "Brammer"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7638761, 54.1996286 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548556,
+      "osm_node_id" : 240074219,
+      "feature_type" : "admin_centre",
+      "name" : "Bargstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7695501, 54.1622399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548557,
+      "osm_node_id" : 240082918,
+      "feature_type" : "admin_centre",
+      "name" : "Oldenhütten"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7395423, 54.157326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548558,
+      "osm_node_id" : 240105150,
+      "feature_type" : "admin_centre",
+      "name" : "Nortorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8559648, 54.1684689 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548559,
+      "osm_node_id" : 240056496,
+      "feature_type" : "admin_centre",
+      "name" : "Gnutz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8258427, 54.1358329 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548560,
+      "osm_node_id" : 240088630,
+      "feature_type" : "admin_centre",
+      "name" : "Timmaspe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8913017, 54.1407315 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548564,
+      "osm_node_id" : 240052308,
+      "feature_type" : "admin_centre",
+      "name" : "Rade"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7453108, 54.3312052 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548569,
+      "osm_node_id" : 5845975249,
+      "feature_type" : "admin_centre",
+      "name" : "Osterrönfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6942571, 54.2882722 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548570,
+      "osm_node_id" : 43366937,
+      "feature_type" : "admin_centre",
+      "name" : "Rendsburg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6650076, 54.300292 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548571,
+      "osm_node_id" : 233098807,
+      "feature_type" : "admin_centre",
+      "name" : "Büdelsdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6710695, 54.3164345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548577,
+      "osm_node_id" : 240063683,
+      "feature_type" : "admin_centre",
+      "name" : "Westerrönfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6520644, 54.281577 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548578,
+      "osm_node_id" : 240071797,
+      "feature_type" : "admin_centre",
+      "name" : "Schülp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6304147, 54.2589334 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548579,
+      "osm_node_id" : 283355812,
+      "feature_type" : "admin_centre",
+      "name" : "Jevenstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6606871, 54.2336289 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548581,
+      "osm_node_id" : 240084985,
+      "feature_type" : "admin_centre",
+      "name" : "Hamweddel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6164924, 54.1906928 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548582,
+      "osm_node_id" : 240090350,
+      "feature_type" : "admin_centre",
+      "name" : "Haale"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5484363, 54.1743931 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548583,
+      "osm_node_id" : 240044413,
+      "feature_type" : "admin_centre",
+      "name" : "Embühren"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5919038, 54.1698326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548584,
+      "osm_node_id" : 240103047,
+      "feature_type" : "admin_centre",
+      "name" : "Brinjahe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6322782, 54.1681463 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548585,
+      "osm_node_id" : 240105487,
+      "feature_type" : "admin_centre",
+      "name" : "Stafstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6659973, 54.1705498 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548586,
+      "osm_node_id" : 240047631,
+      "feature_type" : "admin_centre",
+      "name" : "Luhnstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.698626, 54.1672566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548589,
+      "osm_node_id" : 240073743,
+      "feature_type" : "admin_centre",
+      "name" : "Heinkenborstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7503134, 54.1303859 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548590,
+      "osm_node_id" : 240040494,
+      "feature_type" : "admin_centre",
+      "name" : "Nindorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6992947, 54.1318641 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548591,
+      "osm_node_id" : 240044675,
+      "feature_type" : "admin_centre",
+      "name" : "Mörel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7313237, 54.1147802 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548592,
+      "osm_node_id" : 240069972,
+      "feature_type" : "admin_centre",
+      "name" : "Rade b. Hohenwestedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7171214, 54.1024668 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548593,
+      "osm_node_id" : 240060072,
+      "feature_type" : "admin_centre",
+      "name" : "Tappendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6918404, 54.1046775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548594,
+      "osm_node_id" : 240079848,
+      "feature_type" : "admin_centre",
+      "name" : "Remmels"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6518956, 54.1172473 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548595,
+      "osm_node_id" : 240103466,
+      "feature_type" : "admin_centre",
+      "name" : "Hohenwestedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6514123, 54.0898109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548596,
+      "osm_node_id" : 240056585,
+      "feature_type" : "admin_centre",
+      "name" : "Nienborstel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6179821, 54.1406497 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548597,
+      "osm_node_id" : 240121574,
+      "feature_type" : "admin_centre",
+      "name" : "Todenbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5582223, 54.129392 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548602,
+      "osm_node_id" : 240027466,
+      "feature_type" : "admin_centre",
+      "name" : "Hanerau-Hademarschen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.414654, 54.1267158 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548603,
+      "osm_node_id" : 240116509,
+      "feature_type" : "admin_centre",
+      "name" : "Lütjenwestedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4891276, 54.1407759 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548604,
+      "osm_node_id" : 240084886,
+      "feature_type" : "admin_centre",
+      "name" : "Tackesdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4661555, 54.1679316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548620,
+      "osm_node_id" : 240024919,
+      "feature_type" : "admin_centre",
+      "name" : "Loose"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8880076, 54.5199806 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 548621,
+      "osm_node_id" : 240071215,
+      "feature_type" : "admin_centre",
+      "name" : "Holzdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8965509, 54.554442 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 550774,
+      "osm_node_id" : 240097573,
+      "feature_type" : "admin_centre",
+      "name" : "Haby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8194929, 54.394424 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 550776,
+      "osm_node_id" : 240041947,
+      "feature_type" : "admin_centre",
+      "name" : "Holzbunge"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7044845, 54.3817762 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 552389,
+      "osm_node_id" : 240117655,
+      "feature_type" : "admin_centre",
+      "name" : "Gammelby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.794136, 54.5003596 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553471,
+      "osm_node_id" : 240111924,
+      "feature_type" : "admin_centre",
+      "name" : "Schönhorst"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1026795, 54.225388 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553475,
+      "osm_node_id" : 240033307,
+      "feature_type" : "admin_centre",
+      "name" : "Groß Buchwald"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0846606, 54.1626371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553513,
+      "osm_node_id" : 240043067,
+      "feature_type" : "admin_centre",
+      "name" : "Bordesholm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0221102, 54.1762117 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553520,
+      "osm_node_id" : 240037451,
+      "feature_type" : "admin_centre",
+      "name" : "Mühbrook"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0145264, 54.1563511 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553521,
+      "osm_node_id" : 240070219,
+      "feature_type" : "admin_centre",
+      "name" : "Schönbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.974295, 54.1632699 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553522,
+      "osm_node_id" : 240065769,
+      "feature_type" : "admin_centre",
+      "name" : "Loop"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9493038, 54.1479608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553542,
+      "osm_node_id" : 240063982,
+      "feature_type" : "admin_centre",
+      "name" : "Krogaspe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9288294, 54.131615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553600,
+      "osm_node_id" : 24964760,
+      "feature_type" : "admin_centre",
+      "name" : "Padenstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9173133, 54.04882 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553601,
+      "osm_node_id" : 240086973,
+      "feature_type" : "admin_centre",
+      "name" : "Arpsdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8585993, 54.0394331 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 553602,
+      "osm_node_id" : 240121537,
+      "feature_type" : "admin_centre",
+      "name" : "Ehndorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8938886, 54.0532658 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554514,
+      "osm_node_id" : 240097174,
+      "feature_type" : "admin_centre",
+      "name" : "Brodersby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9798246, 54.635546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554520,
+      "osm_node_id" : 240128859,
+      "feature_type" : "admin_centre",
+      "name" : "Karby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9746688, 54.6239131 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554521,
+      "osm_node_id" : 240042204,
+      "feature_type" : "admin_centre",
+      "name" : "Winnemark"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9230472, 54.6159426 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554526,
+      "osm_node_id" : 240050538,
+      "feature_type" : "admin_centre",
+      "name" : "Dörphof"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9770988, 54.6184868 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554528,
+      "osm_node_id" : 274587129,
+      "feature_type" : "admin_centre",
+      "name" : "Damp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.0227108, 54.583368 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554539,
+      "osm_node_id" : 240045966,
+      "feature_type" : "admin_centre",
+      "name" : "Waabs"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9880722, 54.5332352 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554540,
+      "osm_node_id" : 240106322,
+      "feature_type" : "admin_centre",
+      "name" : "Barkelsby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8400907, 54.5008179 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 554747,
+      "osm_node_id" : 240113660,
+      "feature_type" : "admin_centre",
+      "name" : "Altenholz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1187695, 54.3956762 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556088,
+      "osm_node_id" : 583307176,
+      "feature_type" : "admin_centre",
+      "name" : "Aukrug"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7883486, 54.0842226 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556090,
+      "osm_node_id" : 240049677,
+      "feature_type" : "admin_centre",
+      "name" : "Meezen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7103022, 54.0526474 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556093,
+      "osm_node_id" : 240086093,
+      "feature_type" : "admin_centre",
+      "name" : "Grauel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6734647, 54.0705979 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556094,
+      "osm_node_id" : 240048721,
+      "feature_type" : "admin_centre",
+      "name" : "Jahrsdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6329887, 54.0656018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556096,
+      "osm_node_id" : 240100112,
+      "feature_type" : "admin_centre",
+      "name" : "Wapelfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6042416, 54.0847385 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556097,
+      "osm_node_id" : 240024511,
+      "feature_type" : "admin_centre",
+      "name" : "Osterstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5744661, 54.1110943 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556099,
+      "osm_node_id" : 240088610,
+      "feature_type" : "admin_centre",
+      "name" : "Beringstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5352657, 54.1102788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556100,
+      "osm_node_id" : 240085263,
+      "feature_type" : "admin_centre",
+      "name" : "Seefeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4925587, 54.0991873 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556106,
+      "osm_node_id" : 240049334,
+      "feature_type" : "admin_centre",
+      "name" : "Gokels"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4672957, 54.1133501 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556107,
+      "osm_node_id" : 240043087,
+      "feature_type" : "admin_centre",
+      "name" : "Thaden"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4245186, 54.1010894 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556117,
+      "osm_node_id" : 240037854,
+      "feature_type" : "admin_centre",
+      "name" : "Bendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3838689, 54.0857417 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556121,
+      "osm_node_id" : 240109349,
+      "feature_type" : "admin_centre",
+      "name" : "Bornholt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3349247, 54.1003429 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556122,
+      "osm_node_id" : 240029963,
+      "feature_type" : "admin_centre",
+      "name" : "Beldorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.351906, 54.1314673 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556139,
+      "osm_node_id" : 240127831,
+      "feature_type" : "admin_centre",
+      "name" : "Steenfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3791254, 54.1425613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556140,
+      "osm_node_id" : 240039877,
+      "feature_type" : "admin_centre",
+      "name" : "Oldenbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4527, 54.1689731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 556575,
+      "osm_node_id" : 240121916,
+      "feature_type" : "admin_centre",
+      "name" : "Prinzenmoor"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4547024, 54.2174384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 557141,
+      "osm_node_id" : 240104244,
+      "feature_type" : "admin_centre",
+      "name" : "Thumby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9099874, 54.5848266 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 557142,
+      "osm_node_id" : 240076798,
+      "feature_type" : "admin_centre",
+      "name" : "Rieseby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8157764, 54.5412967 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 557145,
+      "osm_node_id" : 240124697,
+      "feature_type" : "admin_centre",
+      "name" : "Kosel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7546389, 54.5056225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 904512,
+      "osm_node_id" : 43348147,
+      "feature_type" : "admin_centre",
+      "name" : "Schleswig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5653284, 54.51851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 935134,
+      "osm_node_id" : 2989680190,
+      "feature_type" : "admin_centre",
+      "name" : "Brunsbüttel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1395423, 53.8972549 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 952291,
+      "osm_node_id" : 240107535,
+      "feature_type" : "admin_centre",
+      "name" : "Hennstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1668592, 54.2852301 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 957877,
+      "osm_node_id" : 240088727,
+      "feature_type" : "admin_centre",
+      "name" : "Wasbek"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.898631, 54.073959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 962282,
+      "osm_node_id" : 190856175,
+      "feature_type" : "admin_centre",
+      "name" : "Süderheistedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1486426, 54.2351255 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 966738,
+      "osm_node_id" : 190814379,
+      "feature_type" : "admin_centre",
+      "name" : "Dellstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3704291, 54.2369313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 966749,
+      "osm_node_id" : 190815112,
+      "feature_type" : "admin_centre",
+      "name" : "Wrohm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3787016, 54.2135005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 966778,
+      "osm_node_id" : 190812843,
+      "feature_type" : "admin_centre",
+      "name" : "Tellingstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.280779, 54.2199228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145085,
+      "osm_node_id" : 240045459,
+      "feature_type" : "admin_centre",
+      "name" : "Gelting"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8969663, 54.7468969 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145086,
+      "osm_node_id" : 240038878,
+      "feature_type" : "admin_centre",
+      "name" : "Ahneby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7314202, 54.7018498 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145087,
+      "osm_node_id" : 1583607459,
+      "feature_type" : "admin_centre",
+      "name" : "Steinberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7839896, 54.757706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145088,
+      "osm_node_id" : 240067812,
+      "feature_type" : "admin_centre",
+      "name" : "Kronsgaard"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9658761, 54.7354908 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145089,
+      "osm_node_id" : 240119030,
+      "feature_type" : "admin_centre",
+      "name" : "Stangheck"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8602904, 54.713956 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145091,
+      "osm_node_id" : 240025935,
+      "feature_type" : "admin_centre",
+      "name" : "Niesgrau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8125501, 54.743102 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145092,
+      "osm_node_id" : 240029532,
+      "feature_type" : "admin_centre",
+      "name" : "Esgrus"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7807358, 54.7233391 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145093,
+      "osm_node_id" : 1575886324,
+      "feature_type" : "admin_centre",
+      "name" : "Rabenholz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.901125, 54.7216283 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145094,
+      "osm_node_id" : 240066807,
+      "feature_type" : "admin_centre",
+      "name" : "Pommerby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9377716, 54.7583717 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145095,
+      "osm_node_id" : 240108513,
+      "feature_type" : "admin_centre",
+      "name" : "Nieby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.934754, 54.7723415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145096,
+      "osm_node_id" : 240024044,
+      "feature_type" : "admin_centre",
+      "name" : "Sterup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7400209, 54.7287244 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145348,
+      "osm_node_id" : 240045701,
+      "feature_type" : "admin_centre",
+      "name" : "Hasselberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9767362, 54.7157776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145349,
+      "osm_node_id" : 240109020,
+      "feature_type" : "admin_centre",
+      "name" : "Maasholm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9915141, 54.6843316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145350,
+      "osm_node_id" : 240037419,
+      "feature_type" : "admin_centre",
+      "name" : "Kappeln"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9317595, 54.6641769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145351,
+      "osm_node_id" : 240041480,
+      "feature_type" : "admin_centre",
+      "name" : "Rabel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9478347, 54.6917912 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145352,
+      "osm_node_id" : 240039772,
+      "feature_type" : "admin_centre",
+      "name" : "Stoltebüll"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8792263, 54.7001913 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1145353,
+      "osm_node_id" : 240119047,
+      "feature_type" : "admin_centre",
+      "name" : "Arnis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9327513, 54.63008 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1147203,
+      "osm_node_id" : 240059117,
+      "feature_type" : "admin_centre",
+      "name" : "Oersberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8427703, 54.6752017 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1147205,
+      "osm_node_id" : 240110695,
+      "feature_type" : "admin_centre",
+      "name" : "Grödersby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.9186178, 54.6373343 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149227,
+      "osm_node_id" : 240034953,
+      "feature_type" : "admin_centre",
+      "name" : "Nottfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7714131, 54.6182108 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149228,
+      "osm_node_id" : 240099209,
+      "feature_type" : "admin_centre",
+      "name" : "Loit"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7012194, 54.6124258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149229,
+      "osm_node_id" : 240050991,
+      "feature_type" : "admin_centre",
+      "name" : "Ulsnis"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7471121, 54.5695241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149230,
+      "osm_node_id" : 240045764,
+      "feature_type" : "admin_centre",
+      "name" : "Rügge"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7642054, 54.688407 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149231,
+      "osm_node_id" : 240081966,
+      "feature_type" : "admin_centre",
+      "name" : "Norderbrarup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7704275, 54.6547824 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149232,
+      "osm_node_id" : 240079470,
+      "feature_type" : "admin_centre",
+      "name" : "Böel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.720949, 54.646834 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149233,
+      "osm_node_id" : 240079901,
+      "feature_type" : "admin_centre",
+      "name" : "Scheggerott"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8193093, 54.667627 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149234,
+      "osm_node_id" : 240023610,
+      "feature_type" : "admin_centre",
+      "name" : "Boren"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8193839, 54.6144603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149237,
+      "osm_node_id" : 240112901,
+      "feature_type" : "admin_centre",
+      "name" : "Mohrkirch"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7140184, 54.6733678 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149238,
+      "osm_node_id" : 240090794,
+      "feature_type" : "admin_centre",
+      "name" : "Wagersrott"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7970288, 54.6639314 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149240,
+      "osm_node_id" : 240107131,
+      "feature_type" : "admin_centre",
+      "name" : "Süderbrarup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.775192, 54.6354193 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149241,
+      "osm_node_id" : 240024912,
+      "feature_type" : "admin_centre",
+      "name" : "Saustrup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7699703, 54.6722909 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149242,
+      "osm_node_id" : 240036477,
+      "feature_type" : "admin_centre",
+      "name" : "Steinfeld"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7449274, 54.5994644 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149245,
+      "osm_node_id" : 240080980,
+      "feature_type" : "admin_centre",
+      "name" : "Schnarup-Thumby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.65, 54.65 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149276,
+      "osm_node_id" : 240111016,
+      "feature_type" : "admin_centre",
+      "name" : "Großsolt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5154094, 54.7004662 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149277,
+      "osm_node_id" : 240044077,
+      "feature_type" : "admin_centre",
+      "name" : "Hürup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5268239, 54.7490104 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149278,
+      "osm_node_id" : 240115363,
+      "feature_type" : "admin_centre",
+      "name" : "Dollerup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6804655, 54.7796222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149279,
+      "osm_node_id" : 240086994,
+      "feature_type" : "admin_centre",
+      "name" : "Freienwill"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4952344, 54.7280775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149280,
+      "osm_node_id" : 240052213,
+      "feature_type" : "admin_centre",
+      "name" : "Munkbrarup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5629963, 54.8017013 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149281,
+      "osm_node_id" : 240083500,
+      "feature_type" : "admin_centre",
+      "name" : "Grundhof"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6538672, 54.7733762 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149282,
+      "osm_node_id" : 240095555,
+      "feature_type" : "admin_centre",
+      "name" : "Ringsberg"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5989184, 54.8074103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149283,
+      "osm_node_id" : 1674338899,
+      "feature_type" : "admin_centre",
+      "name" : "Wees"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5186181, 54.8060252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149284,
+      "osm_node_id" : 240084016,
+      "feature_type" : "admin_centre",
+      "name" : "Ausacker"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5756736, 54.7383044 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149285,
+      "osm_node_id" : 240057890,
+      "feature_type" : "admin_centre",
+      "name" : "Husby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5785877, 54.7659613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149286,
+      "osm_node_id" : 240081173,
+      "feature_type" : "admin_centre",
+      "name" : "Langballig"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.63333, 54.8 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149288,
+      "osm_node_id" : 240093758,
+      "feature_type" : "admin_centre",
+      "name" : "Glücksburg (Ostsee)"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5471259, 54.8344959 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149294,
+      "osm_node_id" : 240062294,
+      "feature_type" : "admin_centre",
+      "name" : "Sieverstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4742464, 54.6431749 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149295,
+      "osm_node_id" : 168883059,
+      "feature_type" : "admin_centre",
+      "name" : "Tarp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4026852, 54.6641816 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149296,
+      "osm_node_id" : 240041704,
+      "feature_type" : "admin_centre",
+      "name" : "Harrislee"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3915374, 54.8047109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149297,
+      "osm_node_id" : 240091054,
+      "feature_type" : "admin_centre",
+      "name" : "Handewitt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.3257408, 54.7674684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149333,
+      "osm_node_id" : 240040714,
+      "feature_type" : "admin_centre",
+      "name" : "Taarstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6862246, 54.5667508 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149334,
+      "osm_node_id" : 240067594,
+      "feature_type" : "admin_centre",
+      "name" : "Schaalby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.630608, 54.5493089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149335,
+      "osm_node_id" : 357402841,
+      "feature_type" : "admin_centre",
+      "name" : "Stolk"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5415744, 54.5985851 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149336,
+      "osm_node_id" : 240080802,
+      "feature_type" : "admin_centre",
+      "name" : "Klappholz"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5357222, 54.6209575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149337,
+      "osm_node_id" : 240053481,
+      "feature_type" : "admin_centre",
+      "name" : "Süderfahrenstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5857029, 54.585343 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149340,
+      "osm_node_id" : 240102602,
+      "feature_type" : "admin_centre",
+      "name" : "Twedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6765795, 54.5945039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149341,
+      "osm_node_id" : 240064301,
+      "feature_type" : "admin_centre",
+      "name" : "Havetoft"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.517119, 54.6499643 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149342,
+      "osm_node_id" : 240084511,
+      "feature_type" : "admin_centre",
+      "name" : "Uelsby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5991061, 54.6316476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149343,
+      "osm_node_id" : 240094894,
+      "feature_type" : "admin_centre",
+      "name" : "Struxdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6402565, 54.6311599 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149344,
+      "osm_node_id" : 240061553,
+      "feature_type" : "admin_centre",
+      "name" : "Tolk"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6393853, 54.5797154 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149458,
+      "osm_node_id" : 240066761,
+      "feature_type" : "admin_centre",
+      "name" : "Neuberend"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.534724, 54.5483155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149459,
+      "osm_node_id" : 240053292,
+      "feature_type" : "admin_centre",
+      "name" : "Nübel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5840413, 54.5626626 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1149460,
+      "osm_node_id" : 240105269,
+      "feature_type" : "admin_centre",
+      "name" : "Idstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5112063, 54.5863831 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1156026,
+      "osm_node_id" : 240073109,
+      "feature_type" : "admin_centre",
+      "name" : "Weesby"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1519667, 54.8308228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1156030,
+      "osm_node_id" : 240082897,
+      "feature_type" : "admin_centre",
+      "name" : "Jardelund"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1996666, 54.8256977 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1156033,
+      "osm_node_id" : 240130227,
+      "feature_type" : "admin_centre",
+      "name" : "Böxlund"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.1797422, 54.8391268 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1156161,
+      "osm_node_id" : 240110471,
+      "feature_type" : "admin_centre",
+      "name" : "Lürschau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4962406, 54.5386221 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1157532,
+      "osm_node_id" : 240070160,
+      "feature_type" : "admin_centre",
+      "name" : "Busdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5501662, 54.4920509 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1157534,
+      "osm_node_id" : 240037925,
+      "feature_type" : "admin_centre",
+      "name" : "Fahrdorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5960536, 54.5035476 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1157535,
+      "osm_node_id" : 240119583,
+      "feature_type" : "admin_centre",
+      "name" : "Borgwedel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6649156, 54.5009311 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1157536,
+      "osm_node_id" : 240027000,
+      "feature_type" : "admin_centre",
+      "name" : "Dannewerk"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5018448, 54.485138 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1157962,
+      "osm_node_id" : 8538158539,
+      "feature_type" : "admin_centre",
+      "name" : "Helgoland"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.8876314, 54.1820608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1175544,
+      "osm_node_id" : 240109515,
+      "feature_type" : "admin_centre",
+      "name" : "Böklund"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5835687, 54.5999705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1187305,
+      "osm_node_id" : 240055402,
+      "feature_type" : "admin_centre",
+      "name" : "Schülp b. Nortorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.8786851, 54.1627078 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1187306,
+      "osm_node_id" : 240083452,
+      "feature_type" : "admin_centre",
+      "name" : "Kropp"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5093321, 54.4115609 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1402987,
+      "osm_node_id" : 240062039,
+      "feature_type" : "admin_centre",
+      "name" : "Friedrichstadt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.0897716, 54.3760004 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1404154,
+      "osm_node_id" : 240104163,
+      "feature_type" : "admin_centre",
+      "name" : "Ostenfeld (Husum)"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2327511, 54.4635898 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1416732,
+      "osm_node_id" : 185965725,
+      "feature_type" : "admin_centre",
+      "name" : "Bredstedt"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.9640834, 54.6236326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1416813,
+      "osm_node_id" : 240080059,
+      "feature_type" : "admin_centre",
+      "name" : "Langenhorn"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.91667, 54.6667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1416816,
+      "osm_node_id" : 240080339,
+      "feature_type" : "admin_centre",
+      "name" : "Ockholm"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.8279152, 54.6655329 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1417212,
+      "osm_node_id" : 240087827,
+      "feature_type" : "admin_centre",
+      "name" : "Ladelund"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.023904, 54.8396499 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1417215,
+      "osm_node_id" : 2677829555,
+      "feature_type" : "admin_centre",
+      "name" : "Bramstedtlund"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.0848044, 54.8411238 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418483,
+      "osm_node_id" : 240044177,
+      "feature_type" : "admin_centre",
+      "name" : "Ellhöft"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.9535148, 54.8870251 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418486,
+      "osm_node_id" : 240123246,
+      "feature_type" : "admin_centre",
+      "name" : "Westre"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.985753, 54.8542222 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418654,
+      "osm_node_id" : 240051016,
+      "feature_type" : "admin_centre",
+      "name" : "Aventoft"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.81667, 54.9 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418655,
+      "osm_node_id" : 240044167,
+      "feature_type" : "admin_centre",
+      "name" : "Rodenäs"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6998676, 54.8835649 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418656,
+      "osm_node_id" : 240093527,
+      "feature_type" : "admin_centre",
+      "name" : "Klanxbüll"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.6785787, 54.8615608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1418942,
+      "osm_node_id" : 240109790,
+      "feature_type" : "admin_centre",
+      "name" : "Humptrup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.8639002, 54.8655184 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1420450,
+      "osm_node_id" : 617040425,
+      "feature_type" : "admin_centre",
+      "name" : "Dagebüll"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.7130636, 54.7306651 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1428482,
+      "osm_node_id" : 240042766,
+      "feature_type" : "admin_centre",
+      "name" : "Niebüll"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.8255846, 54.7869088 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1464848,
+      "osm_node_id" : 240060625,
+      "feature_type" : "admin_centre",
+      "name" : "Kühsen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6167, 53.6833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1464849,
+      "osm_node_id" : 240096019,
+      "feature_type" : "admin_centre",
+      "name" : "Niendorf bei Berkenthin"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6254572, 53.7030849 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1469078,
+      "osm_node_id" : 240127095,
+      "feature_type" : "admin_centre",
+      "name" : "Lauenburg/Elbe"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.5513889, 53.3789803 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1470174,
+      "osm_node_id" : 240121909,
+      "feature_type" : "admin_centre",
+      "name" : "Kulpin"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6957205, 53.7091424 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1470175,
+      "osm_node_id" : 240061409,
+      "feature_type" : "admin_centre",
+      "name" : "Behlendorf"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6685418, 53.6985833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1471101,
+      "osm_node_id" : 240061325,
+      "feature_type" : "admin_centre",
+      "name" : "Lankau"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6667, 53.6667 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1471554,
+      "osm_node_id" : 240077237,
+      "feature_type" : "admin_centre",
+      "name" : "Brunsmark"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.7489982, 53.6158399 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1476161,
+      "osm_node_id" : 240127017,
+      "feature_type" : "admin_centre",
+      "name" : "Ziethen"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8104899, 53.6943936 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 1476162,
+      "osm_node_id" : 240073982,
+      "feature_type" : "admin_centre",
+      "name" : "Mustin"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8827975, 53.6863354 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 2790946,
+      "osm_node_id" : 240032746,
+      "feature_type" : "admin_centre",
+      "name" : "Satrup"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6017831, 54.6945899 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 2799876,
+      "osm_node_id" : 240115832,
+      "feature_type" : "admin_centre",
+      "name" : "Steinbergkirche"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.759224, 54.7553386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 3370039,
+      "osm_node_id" : 69358157,
+      "feature_type" : "admin_centre",
+      "name" : "Wedel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7038772, 53.5810226 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "osm_relation_id" : 8111540,
+      "osm_node_id" : 6114052395,
+      "feature_type" : "admin_centre",
+      "name" : "Stapel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.2286194, 54.3551625 ]
+    }
+  } ]
+}
