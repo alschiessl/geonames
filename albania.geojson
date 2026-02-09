@@ -17,7 +17,7 @@
       "wikidata" : "Q19307",
       "wikipedia" : "en:Çorovodë",
       "osm_id" : 1252288,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -28,7 +28,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 54939142,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -43,7 +43,7 @@
       "wikidata" : "Q817140",
       "wikipedia" : "en:Bilisht",
       "osm_id" : 1252576,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -54,7 +54,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27469785,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -70,7 +70,7 @@
       "wikidata" : "Q18774",
       "wikipedia" : "sq:Kuçovë",
       "osm_id" : 626151,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -81,7 +81,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 55284746,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -97,7 +97,7 @@
       "wikidata" : "Q1021800",
       "wikipedia" : "en:Leskovik",
       "osm_id" : 626295,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -108,7 +108,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 55287398,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -123,7 +123,7 @@
       "wikidata" : "Q18738",
       "wikipedia" : "en:Libohovë",
       "osm_id" : 626952,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -134,7 +134,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27727635,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -150,7 +150,7 @@
       "wikidata" : "Q18772",
       "wikipedia" : "en:Librazhd",
       "osm_id" : 625305,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -161,7 +161,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 55455286,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -178,7 +178,7 @@
       "wikidata" : "Q18749",
       "wikipedia" : "en:Memaliaj",
       "osm_id" : 1253920,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -189,7 +189,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27728414,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -206,7 +206,7 @@
       "wikidata" : "Q642856",
       "wikipedia" : "en:Përmet",
       "osm_id" : 626965,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -217,7 +217,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 55532416,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -233,7 +233,7 @@
       "wikidata" : "Q223154",
       "wikipedia" : "en:Peshkopi",
       "osm_id" : 1249558,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -244,7 +244,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 55532872,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -272,7 +272,7 @@
       "wikidata" : "Q134613",
       "wikipedia" : "en:Selenicë",
       "osm_id" : 1255546,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -283,7 +283,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27912121,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -298,7 +298,7 @@
       "wikidata" : "Q81631",
       "wikipedia" : "en:Tepelenë",
       "osm_id" : 626943,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -309,7 +309,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27997309,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -320,7 +320,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 27997571,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -335,7 +335,7 @@
       "wikidata" : "Q2430629",
       "wikipedia" : "en:Shalë, Albania",
       "osm_id" : 624141,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -352,7 +352,7 @@
       "wikidata" : "Q19310",
       "wikipedia" : "en:Pukë",
       "osm_id" : 1248300,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -367,7 +367,7 @@
       "wikidata" : "Q2633951",
       "wikipedia" : "en:Shkrel",
       "osm_id" : 1248280,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -379,7 +379,7 @@
       "admin_level" : "8",
       "name" : "Hajmel",
       "osm_id" : 1248272,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -394,7 +394,7 @@
       "wikidata" : "Q2633885",
       "wikipedia" : "en:Blerim",
       "osm_id" : 624136,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -410,7 +410,7 @@
       "wikidata" : "Q2625121",
       "wikipedia" : "en:Kalis, Albania",
       "osm_id" : 624271,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -427,7 +427,7 @@
       "wikidata" : "Q210197",
       "wikipedia" : "en:Kukës",
       "osm_id" : 624268,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -442,7 +442,7 @@
       "wikidata" : "Q2712261",
       "wikipedia" : "en:Bushtricë",
       "osm_id" : 624280,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -458,7 +458,7 @@
       "wikidata" : "Q1284607",
       "wikipedia" : "en:Fierzë, Tropojë",
       "osm_id" : 624267,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -474,7 +474,7 @@
       "population" : "5340",
       "wikidata" : "Q22007964",
       "osm_id" : 1248542,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -489,7 +489,7 @@
       "wikidata" : "Q2420141",
       "wikipedia" : "en:Fajzë",
       "osm_id" : 624276,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -505,7 +505,7 @@
       "wikidata" : "Q958899",
       "wikipedia" : "en:Krumë",
       "osm_id" : 624278,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -520,7 +520,7 @@
       "wikidata" : "Q2633785",
       "wikipedia" : "en:Surroj",
       "osm_id" : 1248538,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -536,7 +536,7 @@
       "wikidata" : "Q2712333",
       "wikipedia" : "en:Ujmisht",
       "osm_id" : 1248540,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -551,7 +551,7 @@
       "wikidata" : "Q2712313",
       "wikipedia" : "en:Arrën",
       "osm_id" : 1248558,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -566,7 +566,7 @@
       "wikidata" : "Q2737806",
       "wikipedia" : "en:Fan,_Mirditë",
       "osm_id" : 1248940,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -582,7 +582,7 @@
       "wikidata" : "Q2712281",
       "wikipedia" : "en:Malzi",
       "osm_id" : 1248562,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -598,7 +598,7 @@
       "wikidata" : "Q169160",
       "wikipedia" : "sq:Lezha",
       "osm_id" : 624464,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -613,7 +613,7 @@
       "wikidata" : "Q2712449",
       "wikipedia" : "en:Kaçinar",
       "osm_id" : 624461,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -628,7 +628,7 @@
       "wikidata" : "Q2617983",
       "wikipedia" : "en:Kthellë",
       "osm_id" : 624468,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -643,7 +643,7 @@
       "wikidata" : "Q2737812",
       "wikipedia" : "en:Kallmet",
       "osm_id" : 1248932,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -658,7 +658,7 @@
       "wikidata" : "Q2735205",
       "wikipedia" : "en:Ungrej",
       "osm_id" : 624465,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -675,7 +675,7 @@
       "wikidata" : "Q18768",
       "wikipedia" : "en:Laç",
       "osm_id" : 1248928,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -690,7 +690,7 @@
       "wikidata" : "Q2737800",
       "wikipedia" : "en:Dajç, Lezhë",
       "osm_id" : 1248926,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -705,7 +705,7 @@
       "wikidata" : "Q2737794",
       "wikipedia" : "en:Balldren",
       "osm_id" : 624460,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -720,7 +720,7 @@
       "wikidata" : "Q1746477",
       "wikipedia" : "en:Milot, Kurbin",
       "osm_id" : 1248938,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -736,7 +736,7 @@
       "wikidata" : "Q991268",
       "wikipedia" : "en:Mamurras",
       "osm_id" : 1248924,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -751,7 +751,7 @@
       "wikidata" : "Q2735182",
       "wikipedia" : "en:Zejmen",
       "osm_id" : 624466,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -767,7 +767,7 @@
       "wikidata" : "Q19259",
       "wikipedia" : "en:Rubik, Albania",
       "osm_id" : 1248936,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -782,7 +782,7 @@
       "wikidata" : "Q379088",
       "wikipedia" : "en:Kolsh, Lezhë",
       "osm_id" : 1248934,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -799,7 +799,7 @@
       "wikidata" : "Q18737",
       "wikipedia" : "en:Rrëshen",
       "osm_id" : 1248930,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -814,7 +814,7 @@
       "wikidata" : "Q3954891",
       "wikipedia" : "en:Selitë,_Mirditë",
       "osm_id" : 624462,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -829,7 +829,7 @@
       "wikidata" : "Q2712250",
       "wikipedia" : "en:Derjan",
       "osm_id" : 1249554,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -844,7 +844,7 @@
       "wikidata" : "Q2542462",
       "wikipedia" : "en:Ulëz",
       "osm_id" : 1249534,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -859,7 +859,7 @@
       "wikidata" : "Q2648733",
       "wikipedia" : "en:Baz,_Albania",
       "osm_id" : 624772,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -874,7 +874,7 @@
       "wikidata" : "Q2713467",
       "wikipedia" : "en:Shupenzë",
       "osm_id" : 624777,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -889,7 +889,7 @@
       "wikidata" : "Q2070668",
       "wikipedia" : "en:Suç",
       "osm_id" : 624776,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -904,7 +904,7 @@
       "wikidata" : "Q2618266",
       "wikipedia" : "en:Luzni",
       "osm_id" : 1249564,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -920,7 +920,7 @@
       "wikidata" : "Q2618312",
       "wikipedia" : "en:Qendër_Tomin",
       "osm_id" : 624775,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -935,7 +935,7 @@
       "wikidata" : "Q2618284",
       "wikipedia" : "en:Muhurr",
       "osm_id" : 624780,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -951,7 +951,7 @@
       "wikidata" : "Q2625153",
       "wikipedia" : "en:Arras,_Albania",
       "osm_id" : 1249550,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -967,7 +967,7 @@
       "wikidata" : "Q743103",
       "wikipedia" : "en:Lurë",
       "osm_id" : 1249572,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -982,7 +982,7 @@
       "wikidata" : "Q2713476",
       "wikipedia" : "en:Macukull",
       "osm_id" : 624784,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -997,7 +997,7 @@
       "wikidata" : "Q2410279",
       "wikipedia" : "en:Rukaj",
       "osm_id" : 624771,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1012,7 +1012,7 @@
       "wikidata" : "Q2371484",
       "wikipedia" : "en:Lis,_Albania",
       "osm_id" : 1249568,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1026,7 +1026,7 @@
       "population" : "2909",
       "wikipedia" : "en:Fushë Çidhën",
       "osm_id" : 624769,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1042,7 +1042,7 @@
       "wikidata" : "Q538502",
       "wikipedia" : "en:Fushë-Bulqizë",
       "osm_id" : 1249546,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1058,7 +1058,7 @@
       "wikidata" : "Q2417609",
       "wikipedia" : "en:Zall-Dardhë",
       "osm_id" : 624785,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1073,7 +1073,7 @@
       "wikidata" : "Q780896",
       "wikipedia" : "en:Zall-Reç",
       "osm_id" : 1249552,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1088,7 +1088,7 @@
       "wikidata" : "Q2449717",
       "wikipedia" : "en:Gurrë",
       "osm_id" : 624774,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1105,7 +1105,7 @@
       "wikidata" : "Q278613",
       "wikipedia" : "en:Klos (municipality)",
       "osm_id" : 1249542,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1120,7 +1120,7 @@
       "wikidata" : "Q1838188",
       "wikipedia" : "en:Zerqan",
       "osm_id" : 624770,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1135,7 +1135,7 @@
       "wikidata" : "Q2065730",
       "wikipedia" : "en:Martanesh",
       "osm_id" : 1249538,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1150,7 +1150,7 @@
       "wikidata" : "Q588809",
       "wikipedia" : "en:Xibër",
       "osm_id" : 624768,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1167,7 +1167,7 @@
       "wikidata" : "Q463384",
       "wikipedia" : "en:Bulqizë",
       "osm_id" : 1249560,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1182,7 +1182,7 @@
       "wikidata" : "Q693624",
       "wikipedia" : "en:Selishtë",
       "osm_id" : 1249566,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1202,7 +1202,7 @@
       "wikidata" : "Q18791",
       "wikipedia" : "en:Shijak",
       "osm_id" : 624940,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1219,7 +1219,7 @@
       "wikidata" : "Q597122",
       "wikipedia" : "en:Fushë-Krujë",
       "osm_id" : 1249876,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1234,7 +1234,7 @@
       "wikidata" : "Q2417580",
       "wikipedia" : "en:Kodër-Thumanë",
       "osm_id" : 1249882,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1251,7 +1251,7 @@
       "wikidata" : "Q194164",
       "wikipedia" : "sq:Kruja",
       "osm_id" : 624942,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1266,7 +1266,7 @@
       "wikidata" : "Q2617929",
       "wikipedia" : "en:Cudhi",
       "osm_id" : 624943,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1281,7 +1281,7 @@
       "wikidata" : "Q37611",
       "wikipedia" : "en:Gjepalaj",
       "osm_id" : 624937,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1296,7 +1296,7 @@
       "wikidata" : "Q2252359",
       "wikipedia" : "en:Manëz",
       "osm_id" : 1249884,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1311,7 +1311,7 @@
       "wikidata" : "Q642862",
       "wikipedia" : "en:Xhafzotaj",
       "osm_id" : 624939,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1326,7 +1326,7 @@
       "wikidata" : "Q2573476",
       "wikipedia" : "en:Maminas",
       "osm_id" : 624944,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1341,7 +1341,7 @@
       "wikidata" : "Q2430657",
       "wikipedia" : "en:Zall-Bastar",
       "osm_id" : 625052,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1356,7 +1356,7 @@
       "wikidata" : "Q602969",
       "wikipedia" : "en:Sinaballaj",
       "osm_id" : 1250104,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1373,7 +1373,7 @@
       "wikidata" : "Q1007425",
       "wikipedia" : "en:Rrogozhinë",
       "osm_id" : 1250110,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1389,7 +1389,7 @@
       "wikidata" : "Q652896",
       "wikipedia" : "en:Vorë",
       "osm_id" : 625054,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1404,7 +1404,7 @@
       "wikidata" : "Q2575811",
       "wikipedia" : "en:Shëngjergj",
       "osm_id" : 1250118,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1419,7 +1419,7 @@
       "wikidata" : "Q2633733",
       "wikipedia" : "en:Ndroq",
       "osm_id" : 1250120,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1434,7 +1434,7 @@
       "wikidata" : "Q2633919",
       "wikipedia" : "en:Pezë",
       "osm_id" : 625057,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1449,7 +1449,7 @@
       "wikidata" : "Q2723857",
       "wikipedia" : "en:Baldushk",
       "osm_id" : 625059,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1464,7 +1464,7 @@
       "wikidata" : "Q2712242",
       "wikipedia" : "en:Bërzhitë",
       "osm_id" : 1250094,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1479,7 +1479,7 @@
       "wikidata" : "Q2542328",
       "wikipedia" : "en:Vaqarr",
       "osm_id" : 1250122,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1494,7 +1494,7 @@
       "wikidata" : "Q2712297",
       "wikipedia" : "en:Lekaj",
       "osm_id" : 1250114,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1510,7 +1510,7 @@
       "wikidata" : "Q821023",
       "wikipedia" : "en:Peqin",
       "osm_id" : 625286,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1525,7 +1525,7 @@
       "wikidata" : "Q2714996",
       "wikipedia" : "en:Lunik,_Albania",
       "osm_id" : 1250574,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1540,7 +1540,7 @@
       "wikidata" : "Q2619002",
       "wikipedia" : "en:Qukës",
       "osm_id" : 625281,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1555,7 +1555,7 @@
       "wikidata" : "Q2417620",
       "wikipedia" : "en:Përparim, Peqin",
       "osm_id" : 1250600,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1570,7 +1570,7 @@
       "wikidata" : "Q2417676",
       "wikipedia" : "en:Labinot-Mal",
       "osm_id" : 625280,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1585,7 +1585,7 @@
       "wikidata" : "Q2429855",
       "wikipedia" : "en:Polis, Albania",
       "osm_id" : 1250594,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1600,7 +1600,7 @@
       "wikidata" : "Q896889",
       "wikipedia" : "en:Bradashesh",
       "osm_id" : 625310,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1619,7 +1619,7 @@
       "wikidata" : "Q114257",
       "wikipedia" : "en:Elbasan",
       "osm_id" : 1250602,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1634,7 +1634,7 @@
       "wikidata" : "Q2618670",
       "wikipedia" : "en:Shirgjan",
       "osm_id" : 1250582,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1650,7 +1650,7 @@
       "wikidata" : "Q2727234",
       "wikipedia" : "en:Stëblevë",
       "osm_id" : 625287,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1665,7 +1665,7 @@
       "wikidata" : "Q732700",
       "wikipedia" : "en:Labinot-Fushë",
       "osm_id" : 1250570,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1681,7 +1681,7 @@
       "wikidata" : "Q2617945",
       "wikipedia" : "en:Shushicë, Elbasan",
       "osm_id" : 625285,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1696,7 +1696,7 @@
       "wikidata" : "Q19258",
       "wikipedia" : "en:Prrenjas",
       "osm_id" : 625292,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1711,7 +1711,7 @@
       "wikidata" : "Q2619607",
       "wikipedia" : "en:Gjoçaj",
       "osm_id" : 1250564,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1726,7 +1726,7 @@
       "wikidata" : "Q2619613",
       "wikipedia" : "en:Karinë",
       "osm_id" : 1250588,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1741,7 +1741,7 @@
       "wikidata" : "Q2619591",
       "wikipedia" : "en:Dushk",
       "osm_id" : 625749,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1756,7 +1756,7 @@
       "wikidata" : "Q2619596",
       "wikipedia" : "en:Grabian",
       "osm_id" : 1251484,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1771,7 +1771,7 @@
       "wikidata" : "Q2625178",
       "wikipedia" : "en:Kuman, Albania",
       "osm_id" : 1251482,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1786,7 +1786,7 @@
       "wikidata" : "Q2619581",
       "wikipedia" : "en:Ruzhdie",
       "osm_id" : 1251502,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1803,7 +1803,7 @@
       "wikidata" : "Q18746",
       "wikipedia" : "en:Roskovec",
       "osm_id" : 625735,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1818,7 +1818,7 @@
       "wikidata" : "Q2619196",
       "wikipedia" : "en:Bubullimë",
       "osm_id" : 1251488,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1833,7 +1833,7 @@
       "wikidata" : "Q18709",
       "wikipedia" : "en:Patos, Albania",
       "osm_id" : 1251516,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1848,7 +1848,7 @@
       "wikidata" : "Q2619522",
       "wikipedia" : "en:Selitë,_Mallakastër",
       "osm_id" : 625746,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1863,7 +1863,7 @@
       "wikidata" : "Q2429980",
       "wikipedia" : "en:Krutje",
       "osm_id" : 625744,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1878,7 +1878,7 @@
       "wikidata" : "Q2625133",
       "wikipedia" : "en:Mbrostar",
       "osm_id" : 625739,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1893,7 +1893,7 @@
       "wikidata" : "Q2619301",
       "wikipedia" : "en:Ballagat",
       "osm_id" : 1251518,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1908,7 +1908,7 @@
       "wikidata" : "Q2619575",
       "wikipedia" : "en:Tërbuf",
       "osm_id" : 1251480,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1923,7 +1923,7 @@
       "wikidata" : "Q549571",
       "wikipedia" : "en:Zharrëz",
       "osm_id" : 1251506,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1938,7 +1938,7 @@
       "wikidata" : "Q2418877",
       "wikipedia" : "en:Strum, Albania",
       "osm_id" : 1251486,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1953,7 +1953,7 @@
       "wikidata" : "Q686725",
       "wikipedia" : "en:Levan, Fier",
       "osm_id" : 625750,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1968,7 +1968,7 @@
       "wikidata" : "Q2619210",
       "wikipedia" : "en:Topojë",
       "osm_id" : 625758,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1983,7 +1983,7 @@
       "wikidata" : "Q2714960",
       "wikipedia" : "en:Allkaj",
       "osm_id" : 1251498,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1998,7 +1998,7 @@
       "wikidata" : "Q2633896",
       "wikipedia" : "en:Karbunarë",
       "osm_id" : 625751,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2013,7 +2013,7 @@
       "wikidata" : "Q2633748",
       "wikipedia" : "en:Hysgjokaj",
       "osm_id" : 625757,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2028,7 +2028,7 @@
       "wikidata" : "Q2619562",
       "wikipedia" : "en:Cakran",
       "osm_id" : 625745,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2043,7 +2043,7 @@
       "wikidata" : "Q2712320",
       "wikipedia" : "en:Gradishtë",
       "osm_id" : 1251478,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2058,7 +2058,7 @@
       "wikidata" : "Q644222",
       "wikipedia" : "en:Kolonjë, Lushnjë",
       "osm_id" : 1251496,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2075,7 +2075,7 @@
       "wikidata" : "Q212680",
       "wikipedia" : "sq:Lushnja",
       "osm_id" : 625742,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2090,7 +2090,7 @@
       "wikidata" : "Q2712327",
       "wikipedia" : "en:Golem, Lushnjë",
       "osm_id" : 1251492,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2105,7 +2105,7 @@
       "wikidata" : "Q2619570",
       "wikipedia" : "en:Fratar",
       "osm_id" : 1251500,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2120,7 +2120,7 @@
       "wikidata" : "Q2619587",
       "wikipedia" : "en:Hekal",
       "osm_id" : 1251472,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2135,7 +2135,7 @@
       "wikidata" : "Q2619541",
       "wikipedia" : "en:Portëz",
       "osm_id" : 1251504,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2159,7 +2159,7 @@
       "wikidata" : "Q190897",
       "wikipedia" : "sq:Fieri",
       "osm_id" : 625741,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2174,7 +2174,7 @@
       "wikidata" : "Q2619620",
       "wikipedia" : "en:Qendër, Fier",
       "osm_id" : 625748,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2189,7 +2189,7 @@
       "wikidata" : "Q2619266",
       "wikipedia" : "en:Greshicë",
       "osm_id" : 625738,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2204,7 +2204,7 @@
       "wikidata" : "Q2418865",
       "wikipedia" : "en:Frakull",
       "osm_id" : 1251510,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2219,7 +2219,7 @@
       "wikidata" : "Q2619566",
       "wikipedia" : "en:Kutë",
       "osm_id" : 1251470,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2234,7 +2234,7 @@
       "wikidata" : "Q2570204",
       "wikipedia" : "en:Cukalat",
       "osm_id" : 626142,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2250,7 +2250,7 @@
       "wikidata" : "Q672658",
       "wikipedia" : "en:Leshnjë",
       "osm_id" : 1252282,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2265,7 +2265,7 @@
       "wikidata" : "Q2617179",
       "wikipedia" : "en:Kutalli",
       "osm_id" : 1252300,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2286,7 +2286,7 @@
       "wikidata" : "Q170244",
       "wikipedia" : "en:Berat",
       "osm_id" : 626149,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2302,7 +2302,7 @@
       "wikidata" : "Q2617150",
       "wikipedia" : "en:Poshnjë",
       "osm_id" : 1252296,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2318,7 +2318,7 @@
       "wikidata" : "Q2617128",
       "wikipedia" : "en:Potom",
       "osm_id" : 1252290,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2334,7 +2334,7 @@
       "wikidata" : "Q2617174",
       "wikipedia" : "en:Vërtop",
       "osm_id" : 1252284,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2349,7 +2349,7 @@
       "wikidata" : "Q2617123",
       "wikipedia" : "en:Velabisht",
       "osm_id" : 1252286,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2364,7 +2364,7 @@
       "wikidata" : "Q304112",
       "wikipedia" : "en:Gjerbës",
       "osm_id" : 626153,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2380,7 +2380,7 @@
       "wikidata" : "Q2617977",
       "wikipedia" : "en:Vreshtas",
       "osm_id" : 1252580,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2395,7 +2395,7 @@
       "wikidata" : "Q2617941",
       "wikipedia" : "en:Hoçisht",
       "osm_id" : 1252588,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2410,7 +2410,7 @@
       "wikidata" : "Q2617954",
       "wikipedia" : "en:Lekas",
       "osm_id" : 626292,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2426,7 +2426,7 @@
       "wikidata" : "Q2714353",
       "wikipedia" : "en:Çlirim",
       "osm_id" : 1252574,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2441,7 +2441,7 @@
       "wikidata" : "Q2617629",
       "wikipedia" : "en:Dardhas",
       "osm_id" : 1252570,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2457,7 +2457,7 @@
       "wikidata" : "Q2713339",
       "wikipedia" : "en:Vithkuq",
       "osm_id" : 1252578,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2472,7 +2472,7 @@
       "wikidata" : "Q2617998",
       "wikipedia" : "en:Mollas,_Kolonjë",
       "osm_id" : 1252604,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2488,7 +2488,7 @@
       "wikidata" : "Q2712319",
       "wikipedia" : "en:Progër",
       "osm_id" : 626301,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2503,7 +2503,7 @@
       "wikidata" : "Q2617947",
       "wikipedia" : "en:Proptisht",
       "osm_id" : 626285,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2519,7 +2519,7 @@
       "wikidata" : "Q2617934",
       "wikipedia" : "en:Mollaj",
       "osm_id" : 1252598,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2535,7 +2535,7 @@
       "wikidata" : "Q2617937",
       "wikipedia" : "en:Voskop",
       "osm_id" : 626293,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2550,7 +2550,7 @@
       "wikidata" : "Q2617969",
       "wikipedia" : "en:Pirg",
       "osm_id" : 626298,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2565,7 +2565,7 @@
       "wikidata" : "Q2617960",
       "wikipedia" : "en:Trebinjë",
       "osm_id" : 626284,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2581,7 +2581,7 @@
       "wikidata" : "Q2617957",
       "wikipedia" : "en:Novoselë, Kolonjë",
       "osm_id" : 1252568,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2596,7 +2596,7 @@
       "wikidata" : "Q2712432",
       "wikipedia" : "en:Pojan",
       "osm_id" : 1252592,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2612,7 +2612,7 @@
       "wikidata" : "Q628181",
       "wikipedia" : "en:Libonik",
       "osm_id" : 1252590,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2627,7 +2627,7 @@
       "wikidata" : "Q772248",
       "wikipedia" : "en:Maliq",
       "osm_id" : 626300,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2643,7 +2643,7 @@
       "wikidata" : "Q757298",
       "wikipedia" : "en:Moscopole",
       "osm_id" : 626299,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2659,7 +2659,7 @@
       "wikidata" : "Q2617991",
       "wikipedia" : "en:Barmash",
       "osm_id" : 1252582,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2675,7 +2675,7 @@
       "wikidata" : "Q2543795",
       "wikipedia" : "en:Udënisht",
       "osm_id" : 626302,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2690,7 +2690,7 @@
       "wikidata" : "Q2713321",
       "wikipedia" : "en:Buz,_Albania",
       "osm_id" : 1253932,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2705,7 +2705,7 @@
       "wikidata" : "Q2713493",
       "wikipedia" : "en:Memaliaj_Fshat",
       "osm_id" : 1253888,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2722,7 +2722,7 @@
       "wikidata" : "Q1007556",
       "wikipedia" : "en:Këlcyrë",
       "osm_id" : 1253928,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2737,7 +2737,7 @@
       "wikidata" : "Q2561225",
       "wikipedia" : "en:Antigonë",
       "osm_id" : 626954,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2752,7 +2752,7 @@
       "wikidata" : "Q2713633",
       "wikipedia" : "en:Luftinjë",
       "osm_id" : 626958,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2767,7 +2767,7 @@
       "wikidata" : "Q1862745",
       "wikipedia" : "en:Frashër",
       "osm_id" : 626964,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2782,7 +2782,7 @@
       "wikidata" : "Q2712870",
       "wikipedia" : "en:Krahës",
       "osm_id" : 626953,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2797,7 +2797,7 @@
       "wikidata" : "Q2713447",
       "wikipedia" : "en:Qesarat",
       "osm_id" : 626945,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2812,7 +2812,7 @@
       "wikidata" : "Q2713459",
       "wikipedia" : "en:Dishnicë",
       "osm_id" : 626960,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2827,7 +2827,7 @@
       "wikidata" : "Q2713485",
       "wikipedia" : "en:Picar",
       "osm_id" : 626955,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2842,7 +2842,7 @@
       "wikidata" : "Q2713642",
       "wikipedia" : "en:Qendër_Piskovë",
       "osm_id" : 626962,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2857,7 +2857,7 @@
       "wikidata" : "Q155137",
       "wikipedia" : "en:Petran",
       "osm_id" : 1253912,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2872,7 +2872,7 @@
       "wikidata" : "Q2619706",
       "wikipedia" : "en:Kurvelesh, Tepelenë",
       "osm_id" : 626948,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2887,7 +2887,7 @@
       "wikidata" : "Q786941",
       "wikipedia" : "en:Lopës",
       "osm_id" : 626961,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2902,7 +2902,7 @@
       "wikidata" : "Q2619689",
       "wikipedia" : "en:Qendër_Tepelenë",
       "osm_id" : 626959,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2917,7 +2917,7 @@
       "wikidata" : "Q2713473",
       "wikipedia" : "en:Lazarat",
       "osm_id" : 1253910,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2932,7 +2932,7 @@
       "wikidata" : "Q2713439",
       "wikipedia" : "en:Sukë",
       "osm_id" : 1253904,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2947,7 +2947,7 @@
       "wikidata" : "Q2712857",
       "wikipedia" : "en:Ballaban",
       "osm_id" : 1253918,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2962,7 +2962,7 @@
       "wikidata" : "Q2561168",
       "wikipedia" : "en:Lunxhëri (administrative unit)",
       "osm_id" : 626963,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2977,7 +2977,7 @@
       "wikidata" : "Q2712822",
       "wikipedia" : "en:Pogon,Albania",
       "osm_id" : 1253906,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2994,7 +2994,7 @@
       "wikidata" : "Q173690",
       "wikipedia" : "en:Gjirokastër",
       "osm_id" : 1253930,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3009,7 +3009,7 @@
       "wikidata" : "Q2633850",
       "wikipedia" : "en:Sevaster",
       "osm_id" : 1255536,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3024,7 +3024,7 @@
       "wikidata" : "Q2548815",
       "wikipedia" : "en:Horë-Vranisht",
       "osm_id" : 627761,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3039,7 +3039,7 @@
       "wikidata" : "Q1268329",
       "wikipedia" : "en:Mesopotam",
       "osm_id" : 1255524,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3055,7 +3055,7 @@
       "wikidata" : "Q2712011",
       "wikipedia" : "en:Vllahinë",
       "osm_id" : 1255544,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3070,7 +3070,7 @@
       "wikidata" : "Q2711977",
       "wikipedia" : "en:Armen, Albania",
       "osm_id" : 1255526,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3085,7 +3085,7 @@
       "wikidata" : "Q2711982",
       "wikipedia" : "en:Kotë",
       "osm_id" : 1255528,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3100,7 +3100,7 @@
       "wikidata" : "Q2712000",
       "wikipedia" : "en:Dhivër",
       "osm_id" : 1255550,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3115,7 +3115,7 @@
       "wikidata" : "Q2712006",
       "wikipedia" : "en:Brataj",
       "osm_id" : 627766,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3131,7 +3131,7 @@
       "wikidata" : "Q264188",
       "wikipedia" : "en:Shushicë, Vlorë",
       "osm_id" : 627762,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3148,7 +3148,7 @@
       "wikidata" : "Q372872",
       "wikipedia" : "en:Delvinë",
       "osm_id" : 1255542,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3163,7 +3163,7 @@
       "wikidata" : "Q2711677",
       "wikipedia" : "en:Vergo",
       "osm_id" : 1255532,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3180,7 +3180,7 @@
       "wikidata" : "Q18731",
       "wikipedia" : "en:Konispol",
       "osm_id" : 1255548,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3195,7 +3195,7 @@
       "wikidata" : "Q2542448",
       "wikipedia" : "en:Livadhe",
       "osm_id" : 627763,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3210,7 +3210,7 @@
       "wikidata" : "Q2542543",
       "wikipedia" : "en:Aliko",
       "osm_id" : 627764,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3225,7 +3225,7 @@
       "wikidata" : "Q73664",
       "wikipedia" : "en:Finiq",
       "osm_id" : 627773,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3240,7 +3240,7 @@
       "wikidata" : "Q1496868",
       "wikipedia" : "en:Petrelë",
       "osm_id" : 625053,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3255,7 +3255,7 @@
       "wikidata" : "Q2712851",
       "wikipedia" : "en:Çarçovë",
       "osm_id" : 1253908,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3270,7 +3270,7 @@
       "wikidata" : "Q2618970",
       "wikipedia" : "en:Orenjë",
       "osm_id" : 1250596,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3285,7 +3285,7 @@
       "wikidata" : "Q2713331",
       "wikipedia" : "en:Komsi",
       "osm_id" : 624773,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3302,7 +3302,7 @@
       "wikidata" : "Q461313",
       "wikipedia" : "sq:Burreli",
       "osm_id" : 1249562,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3313,7 +3313,7 @@
     "properties" : {
       "admin_level" : "8",
       "osm_id" : 170792718,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3332,7 +3332,7 @@
       "wikidata" : "Q116341",
       "wikipedia" : "en:Korçë",
       "osm_id" : 626290,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3347,7 +3347,7 @@
       "wikidata" : "Q2718280",
       "wikipedia" : "en:Qendër_Bulgarec",
       "osm_id" : 626282,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3362,7 +3362,7 @@
       "wikidata" : "Q2713872",
       "wikipedia" : "en:Odrie",
       "osm_id" : 626950,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3377,7 +3377,7 @@
       "wikidata" : "Q2725197",
       "wikipedia" : "en:Cepo",
       "osm_id" : 626951,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3392,7 +3392,7 @@
       "wikidata" : "Q2712230",
       "wikipedia" : "en:Llugaj",
       "osm_id" : 1248546,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3408,7 +3408,7 @@
       "wikidata" : "Q2633836",
       "wikipedia" : "en:Grykë-Çajë",
       "osm_id" : 1248554,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3424,7 +3424,7 @@
       "wikidata" : "Q18751",
       "wikipedia" : "en:Poliçan",
       "osm_id" : 626148,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3440,7 +3440,7 @@
       "wikidata" : "Q2607220",
       "wikipedia" : "en:Bogovë",
       "osm_id" : 1252294,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3462,7 +3462,7 @@
       "wikidata" : "Q159610",
       "wikipedia" : "sq:Vlora",
       "osm_id" : 1255534,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3477,7 +3477,7 @@
       "wikidata" : "Q2617198",
       "wikipedia" : "en:Çepan",
       "osm_id" : 1252306,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3493,7 +3493,7 @@
       "wikidata" : "Q2417666",
       "wikipedia" : "en:Qendër_Skrapar",
       "osm_id" : 626152,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3507,7 +3507,7 @@
       "population" : "4263",
       "wikidata" : "Q16361942",
       "osm_id" : 1255530,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -3522,7 +3522,7 @@
       "wikidata" : "Q2542521",
       "wikipedia" : "en:Lukovë",
       "osm_id" : 627767,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3538,7 +3538,7 @@
       "wikidata" : "Q16360697",
       "wikipedia" : "sq:Ksamili",
       "osm_id" : 627768,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -3553,7 +3553,7 @@
       "wikidata" : "Q2712288",
       "wikipedia" : "en:Kryevidh",
       "osm_id" : 625050,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3565,8 +3565,7 @@
       "admin_level" : "8",
       "name" : "Лакаица",
       "name:en" : "Lakaica",
-      "osm_id" : 3238438,
-      "parent_osm_id" : 3238438
+      "osm_id" : 3238438
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3581,7 +3580,7 @@
       "wikidata" : "Q2417595",
       "wikipedia" : "en:Qendër Librazhd",
       "osm_id" : 1250610,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3597,7 +3596,7 @@
       "wikidata" : "Q2525651",
       "wikipedia" : "en:Gjoricë",
       "osm_id" : 624782,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3609,8 +3608,7 @@
       "admin_level" : "8",
       "name" : "Бомово",
       "name:en" : "Bomovo",
-      "osm_id" : 3240822,
-      "parent_osm_id" : 3240822
+      "osm_id" : 3240822
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3626,7 +3624,7 @@
       "wikidata" : "Q2713361",
       "wikipedia" : "en:Ostren",
       "osm_id" : 624767,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3638,8 +3636,7 @@
       "admin_level" : "8",
       "name" : "Трпејца",
       "name:en" : "Trpejca",
-      "osm_id" : 6483648,
-      "parent_osm_id" : 6483648
+      "osm_id" : 6483648
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3651,8 +3648,7 @@
       "admin_level" : "8",
       "name" : "Долно Коњско",
       "name:en" : "Dolno Konjsko",
-      "osm_id" : 3241819,
-      "parent_osm_id" : 3241819
+      "osm_id" : 3241819
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3664,8 +3660,7 @@
       "admin_level" : "8",
       "name" : "Коњско",
       "name:en" : "Konjsko",
-      "osm_id" : 6485676,
-      "parent_osm_id" : 6485676
+      "osm_id" : 6485676
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3682,7 +3677,7 @@
       "wikidata" : "Q1524575",
       "wikipedia" : "en:Ura_Vajgurore",
       "osm_id" : 626143,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3697,7 +3692,7 @@
       "wikidata" : "Q2617165",
       "wikipedia" : "en:Perondi",
       "osm_id" : 626150,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3713,7 +3708,7 @@
       "wikidata" : "Q1258368",
       "wikipedia" : "en:Drenovë_Municipality",
       "osm_id" : 1252564,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3728,7 +3723,7 @@
       "wikidata" : "Q2618964",
       "wikipedia" : "en:Gracen",
       "osm_id" : 625308,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3744,7 +3739,7 @@
       "wikidata" : "Q18793",
       "wikipedia" : "en:Ersekë",
       "osm_id" : 1252600,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3759,7 +3754,7 @@
       "wikidata" : "Q2630271",
       "wikipedia" : "en:Sllovë",
       "osm_id" : 1249570,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3775,7 +3770,7 @@
       "wikidata" : "Q2625195",
       "wikipedia" : "en:Kastriot,_Albania",
       "osm_id" : 624778,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3790,7 +3785,7 @@
       "wikidata" : "Q2618254",
       "wikipedia" : "en:Melan",
       "osm_id" : 624779,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3802,8 +3797,7 @@
       "admin_level" : "8",
       "name" : "Битуше",
       "name:en" : "Butushe",
-      "osm_id" : 3445434,
-      "parent_osm_id" : 3445434
+      "osm_id" : 3445434
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3820,7 +3814,7 @@
       "wikidata" : "Q73639",
       "wikipedia" : "en:Pogradec",
       "osm_id" : 626283,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3835,7 +3829,7 @@
       "wikidata" : "Q3605",
       "wikipedia" : "en:Krrabë",
       "osm_id" : 1250124,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3850,7 +3844,7 @@
       "wikidata" : "Q2619017",
       "wikipedia" : "en:Funarë",
       "osm_id" : 1250608,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3865,7 +3859,7 @@
       "wikidata" : "Q2617972",
       "wikipedia" : "en:Qendër Ersekë",
       "osm_id" : 1252586,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3881,7 +3875,7 @@
       "wikidata" : "Q650258",
       "wikipedia" : "en:Tërpan",
       "osm_id" : 1252292,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3897,7 +3891,7 @@
       "wikidata" : "Q2617144",
       "wikipedia" : "en:Vendreshë",
       "osm_id" : 1252298,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3913,7 +3907,7 @@
       "wikidata" : "Q193226",
       "wikipedia" : "sq:Saranda",
       "osm_id" : 627770,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3928,7 +3922,7 @@
       "wikidata" : "Q532999",
       "wikipedia" : "en:Zagori, Albania",
       "osm_id" : 1253916,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3943,7 +3937,7 @@
       "wikidata" : "Q2713863",
       "wikipedia" : "en:Qendër Libohovë",
       "osm_id" : 1253922,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3959,7 +3953,7 @@
       "wikidata" : "Q2031450",
       "wikipedia" : "en:Orosh",
       "osm_id" : 624463,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3974,7 +3968,7 @@
       "wikidata" : "Q2712274",
       "wikipedia" : "en:Gjegjan",
       "osm_id" : 624134,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -3990,7 +3984,7 @@
       "wikidata" : "Q2619021",
       "wikipedia" : "en:Hotolisht",
       "osm_id" : 1250598,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4005,7 +3999,7 @@
       "wikidata" : "Q2633814",
       "wikipedia" : "en:Tërthore",
       "osm_id" : 1248544,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4020,7 +4014,7 @@
       "wikidata" : "Q1892182",
       "wikipedia" : "en:Maqellarë",
       "osm_id" : 1249556,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4032,7 +4026,7 @@
       "admin_level" : "8",
       "name" : "Bushat",
       "osm_id" : 1248282,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4047,7 +4041,7 @@
       "wikidata" : "Q2542404",
       "wikipedia" : "en:Ana e Malit",
       "osm_id" : 1248276,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4062,7 +4056,7 @@
       "wikidata" : "Q2633775",
       "wikipedia" : "en:Bërdicë",
       "osm_id" : 624137,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4077,7 +4071,7 @@
       "wikidata" : "Q1110392",
       "wikipedia" : "en:Dajç, Shkodër",
       "osm_id" : 1248264,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4092,7 +4086,7 @@
       "wikidata" : "Q2712426",
       "wikipedia" : "en:Shosh, Albania",
       "osm_id" : 1248266,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4107,7 +4101,7 @@
       "wikidata" : "Q2570180",
       "wikipedia" : "en:Iballë",
       "osm_id" : 624145,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4122,7 +4116,7 @@
       "wikidata" : "Q1974458",
       "wikipedia" : "en:Pult",
       "osm_id" : 1248290,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4137,7 +4131,7 @@
       "wikidata" : "Q954311",
       "wikipedia" : "en:Postribë",
       "osm_id" : 624143,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4150,7 +4144,7 @@
       "name" : "Shllak",
       "wikidata" : "Q2542516",
       "osm_id" : 1248288,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4163,7 +4157,7 @@
       "name" : "Temal",
       "wikidata" : "Q2542501",
       "osm_id" : 624139,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4178,7 +4172,7 @@
       "wikidata" : "Q2633738",
       "wikipedia" : "en:Gruemirë",
       "osm_id" : 624149,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4193,7 +4187,7 @@
       "wikidata" : "Q2430679",
       "wikipedia" : "en:Qendër, Malësi e Madhe",
       "osm_id" : 624135,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4209,7 +4203,7 @@
       "wikidata" : "Q991288",
       "wikipedia" : "en:Koplik",
       "osm_id" : 1248296,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4224,7 +4218,7 @@
       "wikidata" : "Q2534946",
       "wikipedia" : "en:Blinisht, Lezhë",
       "osm_id" : 1248918,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4237,7 +4231,7 @@
       "name" : "Vig-Mnelë",
       "wikidata" : "Q2633727",
       "osm_id" : 1248292,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4250,7 +4244,7 @@
       "name" : "Vau-Dejës",
       "wikidata" : "Q1787536",
       "osm_id" : 1248278,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4265,7 +4259,7 @@
       "wikidata" : "Q2633864",
       "wikipedia" : "en:Rrapë",
       "osm_id" : 624147,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4280,7 +4274,7 @@
       "wikidata" : "Q2712252",
       "wikipedia" : "en:Qerret",
       "osm_id" : 624138,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4295,7 +4289,7 @@
       "wikidata" : "Q2633942",
       "wikipedia" : "en:Qelëz",
       "osm_id" : 1248298,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4312,7 +4306,7 @@
       "wikidata" : "Q516116",
       "wikipedia" : "en:Fushë-Arrëz",
       "osm_id" : 624132,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4327,7 +4321,7 @@
       "wikidata" : "Q2430647",
       "wikipedia" : "en:Qafë-Mali",
       "osm_id" : 1248274,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4342,7 +4336,7 @@
       "wikidata" : "Q2633962",
       "wikipedia" : "en:Bytyç",
       "osm_id" : 1248548,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4357,7 +4351,7 @@
       "wikidata" : "Q2633875",
       "wikipedia" : "en:Fierzë, Shkodër",
       "osm_id" : 624140,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4372,7 +4366,7 @@
       "wikidata" : "Q2430736",
       "wikipedia" : "en:Bujan",
       "osm_id" : 624273,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4387,7 +4381,7 @@
       "wikidata" : "Q2712340",
       "wikipedia" : "en:Lekbibaj",
       "osm_id" : 624281,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4402,7 +4396,7 @@
       "wikidata" : "Q2633821",
       "wikipedia" : "en:Golaj",
       "osm_id" : 624275,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4417,7 +4411,7 @@
       "wikidata" : "Q2619548",
       "wikipedia" : "en:Gjinaj",
       "osm_id" : 624269,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4433,7 +4427,7 @@
       "wikidata" : "Q2715015",
       "wikipedia" : "en:Kolsh, Kukës",
       "osm_id" : 624270,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4448,7 +4442,7 @@
       "wikidata" : "Q743281",
       "wikipedia" : "en:Shtiqën",
       "osm_id" : 1248556,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4464,7 +4458,7 @@
       "wikidata" : "Q2619531",
       "wikipedia" : "en:Bicaj",
       "osm_id" : 1248536,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4480,7 +4474,7 @@
       "wikidata" : "Q2713993",
       "wikipedia" : "en:Buçimas",
       "osm_id" : 626287,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4495,7 +4489,7 @@
       "wikidata" : "Q2618325",
       "wikipedia" : "en:Bubq",
       "osm_id" : 624941,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4510,7 +4504,7 @@
       "wikidata" : "Q2633906",
       "wikipedia" : "en:Prezë",
       "osm_id" : 625051,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4525,7 +4519,7 @@
       "wikidata" : "Q2721263",
       "wikipedia" : "en:Dropull i Poshtëm",
       "osm_id" : 1253924,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4540,7 +4534,7 @@
       "wikidata" : "Q304149",
       "wikipedia" : "en:Rrethinat",
       "osm_id" : 1248294,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -4555,7 +4549,7 @@
       "wikidata" : "Q530436",
       "wikipedia" : "en:Guri i Zi, Shkodër",
       "osm_id" : 624144,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4571,7 +4565,7 @@
       "wikidata" : "Q2633801",
       "wikipedia" : "en:Kastrat",
       "osm_id" : 624133,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4587,7 +4581,7 @@
       "wikidata" : "Q622764",
       "wikipedia" : "en:Himara",
       "osm_id" : 627769,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -4626,7 +4620,7 @@
       "wikidata" : "Q131638",
       "wikipedia" : "sq:Shkodra",
       "osm_id" : 624150,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4641,7 +4635,7 @@
       "wikidata" : "Q2712244",
       "wikipedia" : "en:Topojan",
       "osm_id" : 1248552,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4657,7 +4651,7 @@
       "wikidata" : "Q947125",
       "wikipedia" : "sq:Orikumi",
       "osm_id" : 1255538,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -4672,7 +4666,7 @@
       "wikidata" : "Q2431917",
       "wikipedia" : "en:Katund i Ri",
       "osm_id" : 1249878,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4687,7 +4681,7 @@
       "wikidata" : "Q2723870",
       "wikipedia" : "en:Ishëm",
       "osm_id" : 624936,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4702,7 +4696,7 @@
       "wikidata" : "Q2723862",
       "wikipedia" : "en:Farkë",
       "osm_id" : 1250112,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4718,7 +4712,7 @@
       "wikidata" : "Q10786387",
       "wikipedia" : "en:Pustec Municipality",
       "osm_id" : 626291,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -4734,7 +4728,7 @@
       "wikidata" : "Q2542353",
       "wikipedia" : "en:Zapod",
       "osm_id" : 624272,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4750,7 +4744,7 @@
       "wikidata" : "Q7499096",
       "wikipedia" : "en:Shishtavec (administrative unit)",
       "osm_id" : 1248550,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4765,7 +4759,7 @@
       "wikidata" : "Q2619556",
       "wikipedia" : "en:Kurjan",
       "osm_id" : 625737,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4780,7 +4774,7 @@
       "wikidata" : "Q2619518",
       "wikipedia" : "en:Ngraçan",
       "osm_id" : 625736,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4795,7 +4789,7 @@
       "wikidata" : "Q2714965",
       "wikipedia" : "en:Aranitas",
       "osm_id" : 625740,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4810,7 +4804,7 @@
       "wikidata" : "Q2617135",
       "wikipedia" : "en:Sinjë",
       "osm_id" : 1252280,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4827,7 +4821,7 @@
       "wikidata" : "Q909791",
       "wikipedia" : "en:Tropojë",
       "osm_id" : 624282,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4842,7 +4836,7 @@
       "wikidata" : "Q2433124",
       "wikipedia" : "en:Kelmend (municipality)",
       "osm_id" : 1248270,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4857,7 +4851,7 @@
       "wikidata" : "Q743016",
       "wikipedia" : "en:Ballsh",
       "osm_id" : 1251474,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4872,7 +4866,7 @@
       "wikidata" : "Q2418910",
       "wikipedia" : "en:Qendër Dukas",
       "osm_id" : 1251490,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4887,7 +4881,7 @@
       "wikidata" : "Q2712267",
       "wikipedia" : "en:Margegaj",
       "osm_id" : 1248564,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4899,8 +4893,7 @@
       "admin_level" : "8",
       "name" : "Ckla",
       "name:sr" : "Цкла",
-      "osm_id" : 10221584,
-      "parent_osm_id" : 10221584
+      "osm_id" : 10221584
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -4916,7 +4909,7 @@
       "wikidata" : "Q2542534",
       "wikipedia" : "en:Trebisht",
       "osm_id" : 624781,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4928,8 +4921,7 @@
       "admin_level" : "8",
       "name" : "Мали Влај",
       "name:en" : "Mali Vlaj",
-      "osm_id" : 6479384,
-      "parent_osm_id" : 6479384
+      "osm_id" : 6479384
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4944,7 +4936,7 @@
       "wikidata" : "Q2618711",
       "wikipedia" : "en:Rrajcë",
       "osm_id" : 625294,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4961,7 +4953,7 @@
       "wikidata" : "Q2618000",
       "wikipedia" : "en:Qendër Bilisht",
       "osm_id" : 626296,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4976,7 +4968,7 @@
       "wikidata" : "Q2713977",
       "wikipedia" : "en:Çërravë",
       "osm_id" : 626289,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4991,7 +4983,7 @@
       "wikidata" : "Q2618271",
       "wikipedia" : "en:Qendër Leskovik",
       "osm_id" : 1252596,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5006,7 +4998,7 @@
       "wikidata" : "Q2713346",
       "wikipedia" : "en:Dropull i Sipërm",
       "osm_id" : 626956,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5021,7 +5013,7 @@
       "wikidata" : "Q2711989",
       "wikipedia" : "en:Markat",
       "osm_id" : 627772,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5036,7 +5028,7 @@
       "wikidata" : "Q2219864",
       "wikipedia" : "en:Miras",
       "osm_id" : 1252594,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5049,8 +5041,7 @@
       "name" : "Δημοτική Ενότητα Γράμου",
       "name:el" : "Δημοτική Ενότητα Γράμου",
       "name:en" : "Gramos Municipal Unit",
-      "osm_id" : 15969334,
-      "parent_osm_id" : 15969334
+      "osm_id" : 15969334
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5065,7 +5056,7 @@
       "wikidata" : "Q2725157",
       "wikipedia" : "en:Bërxullë",
       "osm_id" : 1250100,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5080,7 +5071,7 @@
       "wikidata" : "Q2712186",
       "wikipedia" : "en:Kashar",
       "osm_id" : 625047,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5095,7 +5086,7 @@
       "wikidata" : "Q2617985",
       "wikipedia" : "en:Kala_e_Dodës",
       "osm_id" : 1249544,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5110,7 +5101,7 @@
       "wikidata" : "Q2430668",
       "wikipedia" : "en:Helmas",
       "osm_id" : 625060,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5125,7 +5116,7 @@
       "wikidata" : "Q2633832",
       "wikipedia" : "en:Luz i Vogël",
       "osm_id" : 625061,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5142,7 +5133,7 @@
       "wikidata" : "Q46702",
       "wikipedia" : "en:Kavajë",
       "osm_id" : 1250096,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5157,7 +5148,7 @@
       "wikidata" : "Q2711993",
       "wikipedia" : "en:Qendër Vlorë",
       "osm_id" : 1255522,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -5172,7 +5163,7 @@
       "wikidata" : "Q2712017",
       "wikipedia" : "en:Novoselë",
       "osm_id" : 627774,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5187,7 +5178,7 @@
       "wikidata" : "Q2619185",
       "wikipedia" : "en:Dërmenas",
       "osm_id" : 625754,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5202,7 +5193,7 @@
       "wikidata" : "Q2619601",
       "wikipedia" : "en:Libofshë",
       "osm_id" : 625755,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5217,7 +5208,7 @@
       "wikidata" : "Q2713483",
       "wikipedia" : "en:Remas",
       "osm_id" : 1251512,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5232,7 +5223,7 @@
       "wikidata" : "Q2633795",
       "wikipedia" : "en:Gosë",
       "osm_id" : 1250102,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5247,7 +5238,7 @@
       "wikidata" : "Q2712238",
       "wikipedia" : "en:Synej",
       "osm_id" : 1250116,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5262,7 +5253,7 @@
       "wikidata" : "Q747820",
       "wikipedia" : "en:Golem, Kavajë",
       "osm_id" : 1250108,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5277,7 +5268,7 @@
       "wikidata" : "Q2723890",
       "wikipedia" : "en:Rrashbull",
       "osm_id" : 1249886,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5300,7 +5291,7 @@
       "wikidata" : "Q83285",
       "wikipedia" : "en:Durrës",
       "osm_id" : 1249888,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5315,7 +5306,7 @@
       "wikidata" : "Q593557",
       "wikipedia" : "en:Sukth",
       "osm_id" : 1249880,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5330,7 +5321,7 @@
       "wikidata" : "Q2363672",
       "wikipedia" : "en:Fushë_Kuqe",
       "osm_id" : 624459,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5345,7 +5336,7 @@
       "wikidata" : "Q2737814",
       "wikipedia" : "en:Shënkoll",
       "osm_id" : 624469,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5361,7 +5352,7 @@
       "wikidata" : "Q606485",
       "wikipedia" : "en:Shëngjin",
       "osm_id" : 624458,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5376,7 +5367,7 @@
       "wikidata" : "Q1021579",
       "wikipedia" : "en:Velipojë",
       "osm_id" : 624148,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5392,7 +5383,7 @@
       "wikidata" : "Q1945622",
       "wikipedia" : "en:Divjakë",
       "osm_id" : 1251476,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "MultiPolygon",
@@ -5407,7 +5398,7 @@
       "wikidata" : "Q1157723",
       "wikipedia" : "en:Dajt",
       "osm_id" : 625049,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5422,7 +5413,7 @@
       "wikidata" : "Q2619030",
       "wikipedia" : "en:Gjinar",
       "osm_id" : 625299,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5437,7 +5428,7 @@
       "wikidata" : "Q2625189",
       "wikipedia" : "en:Sult, Albania",
       "osm_id" : 625301,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5453,7 +5444,7 @@
       "wikidata" : "Q2618344",
       "wikipedia" : "en:Kushovë",
       "osm_id" : 1250606,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5468,7 +5459,7 @@
       "wikidata" : "Q2617115",
       "wikipedia" : "en:Roshnik",
       "osm_id" : 626141,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5484,7 +5475,7 @@
       "wikidata" : "Q2617206",
       "wikipedia" : "en:Otllak",
       "osm_id" : 626145,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5500,7 +5491,7 @@
       "wikidata" : "Q2618321",
       "wikipedia" : "en:Tunjë",
       "osm_id" : 625284,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5516,7 +5507,7 @@
       "wikidata" : "Q2417643",
       "wikipedia" : "en:Gorë",
       "osm_id" : 1252566,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5532,7 +5523,7 @@
       "wikidata" : "Q2617158",
       "wikipedia" : "en:Zhepë",
       "osm_id" : 626146,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5548,7 +5539,7 @@
       "wikidata" : "Q285899",
       "wikipedia" : "en:Velçan",
       "osm_id" : 1252584,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5564,7 +5555,7 @@
       "wikidata" : "Q2618289",
       "wikipedia" : "en:Lenie, Albania",
       "osm_id" : 1250586,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5579,7 +5570,7 @@
       "wikidata" : "Q2417544",
       "wikipedia" : "en:Skënderbegas",
       "osm_id" : 625293,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5595,7 +5586,7 @@
       "wikidata" : "Q2714954",
       "wikipedia" : "en:Moglicë",
       "osm_id" : 626288,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5611,7 +5602,7 @@
       "wikidata" : "Q2618960",
       "wikipedia" : "en:Kodovjat",
       "osm_id" : 625307,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5626,7 +5617,7 @@
       "wikidata" : "Q2618987",
       "wikipedia" : "en:Kukur",
       "osm_id" : 625290,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5641,7 +5632,7 @@
       "wikidata" : "Q741967",
       "wikipedia" : "en:Nikël",
       "osm_id" : 1249874,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739254
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5683,7 +5674,7 @@
       "admin_level" : "8",
       "name" : "Njësia Administrative Nr. 2",
       "osm_id" : 9811330,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5698,7 +5689,7 @@
       "wikidata" : "Q2430639",
       "wikipedia" : "en:Zall-Herr",
       "osm_id" : 625048,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5714,7 +5705,7 @@
       "wikidata" : "Q605160",
       "wikipedia" : "en:Kamëz",
       "osm_id" : 625058,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5738,7 +5729,7 @@
       "wikidata" : "Q19689",
       "wikipedia" : "en:Tirana",
       "osm_id" : 1250106,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -5750,7 +5741,7 @@
       "admin_level" : "8",
       "name" : "Njësia Administrative Bathore",
       "osm_id" : 9811331,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6065,7 +6056,7 @@
       "wikidata" : "Q2619010",
       "wikipedia" : "en:Zavalinë",
       "osm_id" : 625298,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6080,7 +6071,7 @@
       "wikidata" : "Q2618980",
       "wikipedia" : "en:Stravaj",
       "osm_id" : 1250612,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6096,7 +6087,7 @@
       "wikidata" : "Q2618330",
       "wikipedia" : "en:Poroçan",
       "osm_id" : 1250620,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6111,7 +6102,7 @@
       "wikidata" : "Q2617211",
       "wikipedia" : "en:Lumas",
       "osm_id" : 1252308,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6126,7 +6117,7 @@
       "wikidata" : "Q2561266",
       "wikipedia" : "en:Pajovë",
       "osm_id" : 1250568,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6141,7 +6132,7 @@
       "wikidata" : "Q2618277",
       "wikipedia" : "en:Mollas, Elbasan",
       "osm_id" : 625289,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6158,7 +6149,7 @@
       "wikidata" : "Q2713368",
       "wikipedia" : "en:Klos, Elbasan",
       "osm_id" : 625306,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6173,7 +6164,7 @@
       "wikidata" : "Q2618338",
       "wikipedia" : "en:Papër",
       "osm_id" : 1250604,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6189,7 +6180,7 @@
       "wikidata" : "Q18730",
       "wikipedia" : "en:Cërrik",
       "osm_id" : 625300,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6204,7 +6195,7 @@
       "wikidata" : "Q2618260",
       "wikipedia" : "en:Gjergjan",
       "osm_id" : 1250572,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6219,7 +6210,7 @@
       "wikidata" : "Q2618996",
       "wikipedia" : "en:Tregan",
       "osm_id" : 625302,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6235,7 +6226,7 @@
       "wikidata" : "Q2618662",
       "wikipedia" : "en:Gostimë",
       "osm_id" : 1250566,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6250,7 +6241,7 @@
       "wikidata" : "Q2618299",
       "wikipedia" : "en:Shalës",
       "osm_id" : 1250616,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6264,7 +6255,7 @@
       "wikidata" : "Q2715001",
       "wikipedia" : "en:Pishaj",
       "osm_id" : 1250592,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6281,7 +6272,7 @@
       "wikidata" : "Q18777",
       "wikipedia" : "en:Gramsh",
       "osm_id" : 625296,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6297,7 +6288,7 @@
       "wikidata" : "Q2618295",
       "wikipedia" : "en:Grekan",
       "osm_id" : 625291,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6313,7 +6304,7 @@
       "wikidata" : "Q2618306",
       "wikipedia" : "en:Rrasë",
       "osm_id" : 1250614,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6328,7 +6319,7 @@
       "wikidata" : "Q2534957",
       "wikipedia" : "en:Shezë",
       "osm_id" : 625303,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6345,7 +6336,7 @@
       "wikidata" : "Q816187",
       "wikipedia" : "en:Belsh",
       "osm_id" : 625297,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6360,7 +6351,7 @@
       "wikidata" : "Q2617186",
       "wikipedia" : "en:Kozare,_Albania",
       "osm_id" : 1252302,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6376,7 +6367,7 @@
       "wikidata" : "Q2618348",
       "wikipedia" : "en:Kajan",
       "osm_id" : 1250562,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6392,7 +6383,7 @@
       "wikidata" : "Q3744643",
       "wikipedia" : "en:Fierzë, Elbasan",
       "osm_id" : 625283,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 3869626
     },
     "geometry" : {
       "type" : "Polygon",
@@ -6407,7 +6398,7 @@
       "wikidata" : "Q2429991",
       "wikipedia" : "en:Fier-Shegan",
       "osm_id" : 625747,
-      "parent_osm_id" : 53292
+      "parent_osm_id" : 7739252
     },
     "geometry" : {
       "type" : "Polygon",

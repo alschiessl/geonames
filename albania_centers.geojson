@@ -1,0 +1,4840 @@
+{
+  "type" : "FeatureCollection",
+  "name" : "SELECT",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 53292,
+      "osm_id" : 1835254686,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8184435, 41.3281482 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248301,
+      "osm_id" : 274122533,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.5121437, 42.0681371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248537,
+      "osm_id" : 470406312,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.4163203, 42.0768978 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248542,
+      "osm_id" : 728422812,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0753026, 42.3576482 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248928,
+      "osm_id" : 2367041545,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7123916, 41.635741 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248929,
+      "osm_id" : 4742666358,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.6433538, 41.7816638 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249885,
+      "osm_id" : 503689082,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.792852, 41.511251 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250106,
+      "osm_id" : 1835254686,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8184435, 41.3281482 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250117,
+      "osm_id" : 4340385989,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7604224, 41.3835259 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250120,
+      "osm_id" : 728423305,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.6533476, 41.2642852 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250562,
+      "osm_id" : 728423209,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8935551, 40.914097 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250566,
+      "osm_id" : 728426779,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.01037, 40.9940549 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250567,
+      "osm_id" : 728425392,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8477734, 40.9211655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250568,
+      "osm_id" : 7070452081,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8376574, 41.0548543 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250569,
+      "osm_id" : 728427591,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.1103508, 40.832883 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250572,
+      "osm_id" : 728423997,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0139255, 41.0387886 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250579,
+      "osm_id" : 728421937,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0041545, 40.9235576 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250581,
+      "osm_id" : 728424270,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3670888, 40.8669615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250583,
+      "osm_id" : 712269006,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9480613, 40.9289231 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250586,
+      "osm_id" : 728421479,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3896364, 40.7652176 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250587,
+      "osm_id" : 728420020,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2393121, 40.7772493 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250592,
+      "osm_id" : 728428648,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.1891239, 40.884584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250595,
+      "osm_id" : 1656612077,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8898836, 40.9807661 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250597,
+      "osm_id" : 728424697,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2763222, 40.9801844 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250599,
+      "osm_id" : 728422332,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2024966, 41.0181706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250601,
+      "osm_id" : 5195988303,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9887602, 41.0266165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250602,
+      "osm_id" : 2142698589,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0820858, 41.1126792 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250603,
+      "osm_id" : 728426578,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.1023279, 40.883013 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250604,
+      "osm_id" : 728420659,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9565889, 41.053038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250605,
+      "osm_id" : 728429051,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0807914, 41.0240788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250606,
+      "osm_id" : 728419268,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.190699, 40.789861 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250607,
+      "osm_id" : 13299618366,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8173878, 41.0256514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250612,
+      "osm_id" : 728418084,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.420208, 41.0000182 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250613,
+      "osm_id" : 728420775,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0102412, 40.9435506 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250614,
+      "osm_id" : 728428557,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.8213775, 40.9675263 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250615,
+      "osm_id" : 728418739,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2509188, 40.8056371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250616,
+      "osm_id" : 1655115885,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9539501, 40.9999307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250620,
+      "osm_id" : 728424752,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2902543, 40.9360561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251471,
+      "osm_id" : 1912969900,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7034693, 40.7381523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251483,
+      "osm_id" : 33208686,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.5582079, 40.7251118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251485,
+      "osm_id" : 2193240328,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7059724, 40.9422038 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251495,
+      "osm_id" : 2359229035,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.784368, 40.8690086 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252283,
+      "osm_id" : 728425130,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0413734, 40.7311372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252288,
+      "osm_id" : 309049893,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2283496, 40.5036229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252291,
+      "osm_id" : 728419545,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9348885, 40.7440491 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252293,
+      "osm_id" : 728427286,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2880788, 40.6777302 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252297,
+      "osm_id" : 728421560,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0989769, 40.6122122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252302,
+      "osm_id" : 9833430572,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9024089, 40.8336621 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252303,
+      "osm_id" : 415789950,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9134448, 40.804415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252305,
+      "osm_id" : 309049893,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2283496, 40.5036229 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252308,
+      "osm_id" : 728423284,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9994237, 40.8172241 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252577,
+      "osm_id" : 728421405,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3923779, 40.7060848 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252584,
+      "osm_id" : 728422147,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.4617376, 40.9541047 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253928,
+      "osm_id" : 5321908579,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.1922837, 40.3135075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253931,
+      "osm_id" : 728418058,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3531679, 40.2332541 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255534,
+      "osm_id" : 33208756,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4912716, 40.4707602 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255537,
+      "osm_id" : 713605214,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0037922, 39.7701379 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255538,
+      "osm_id" : 713605590,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4748818, 40.3268432 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255541,
+      "osm_id" : 248816615,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0065258, 39.8752198 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 6481645,
+      "osm_id" : 1896159782,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.4783651, 41.5044312 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 7739254,
+      "osm_id" : 274122533,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.5121437, 42.0681371 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 19622661,
+      "osm_id" : 13156008600,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7594349, 41.3727582 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 19622663,
+      "osm_id" : 11923686420,
+      "from_osm" : "true"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7949835, 41.3771124 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 54939142,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.23328124429439, 40.50050755 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252576,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.993352103888274, 40.62748275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27469785,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.993352103888274, 40.62748275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626151,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.916844774432203, 40.80087015 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 55284746,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.916844774432203, 40.80087015 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626295,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.601060372004333, 40.15409655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 55287398,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.601060372004333, 40.15409655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626952,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.264396442520074, 40.0318745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27727635,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.264396442520074, 40.0318745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625305,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.324631112644102, 41.18129455 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 55455286,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.324631112644102, 41.18129455 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253920,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.982395611438243, 40.34827825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27728414,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.982395611438243, 40.34827825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626965,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.35137447412339, 40.23468805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 55532416,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.35137447412339, 40.23468805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249558,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.431276634489606, 41.6837479 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 55532872,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.431276634489606, 41.6837479 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27769555,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.280195452991745, 40.4941353 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255546,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.638237034525503, 40.5326814 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27912121,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.638237034525503, 40.5326814 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626943,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.017047467515518, 40.29798095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27997309,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.017047467515518, 40.29798095 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 27997571,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.391642586353356, 40.81957045 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624141,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.757584451775166, 42.3659184 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248300,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.895963916126718, 42.03672815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248280,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.584958343554845, 42.3090224 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248272,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.635934650323286, 41.94389445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624136,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.13700740149241, 42.1466358 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624271,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.38051961195476, 41.84324285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624268,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.42116318132266, 42.07271955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624280,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.398743772421803, 41.87906285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624267,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.060303991207192, 42.26825085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624276,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.35283474872755, 42.15115965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624278,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.44045653304823, 42.19066965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248538,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.318624728613003, 41.99844285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248540,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.37970387627735, 41.9351552 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248558,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.26573382282227, 41.9142316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248940,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.17268087533199, 41.94803995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248562,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.244719549736192, 42.1039621 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624464,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.642953023157716, 41.78194225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624461,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.887436166179633, 41.89067135 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624468,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.983780860379518, 41.749804 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248932,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.681753643069463, 41.8332338 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624465,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.782716060739247, 41.89094645 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248926,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.59513768897658, 41.90696905 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624460,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.59135650955029, 41.8608411 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248938,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.775396881605833, 41.64407695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248924,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.69222431331065, 41.597622 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624466,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.707038445169324, 41.72334335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248936,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.781606174445884, 41.7742539 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248934,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.68853633406229, 41.77877575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248930,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.91783358898075, 41.77608685 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624462,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.112197658789796, 41.767905 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249554,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.069171081949307, 41.7051771 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249534,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.871055187577625, 41.6615124 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624772,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.952574379955735, 41.641367 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624777,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3714344615123, 41.57519055 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624776,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.129236987616746, 41.5701402 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249564,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.349086239877717, 41.64200375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624775,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.382695770313372, 41.6869204 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624780,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.28299275776287, 41.6904705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249550,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.289445118695333, 41.752373 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249572,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.21882609505843, 41.7832913 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624784,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.152115813179137, 41.68094995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624771,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.002679040982656, 41.6800346 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249568,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.1175085189833, 41.61305005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624769,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.365293478002613, 41.7618376 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249546,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.283811161313793, 41.51952345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624785,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.31414936556586, 41.80703935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249552,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.295211406429132, 41.8688161 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624774,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.996141672320235, 41.5398789 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249542,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.099749987943152, 41.50221405 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624770,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.362449179898768, 41.4789357 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249538,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.213674027243552, 41.41365035 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624768,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.067994915770083, 41.4408898 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249560,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.223063910816315, 41.5101557 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249566,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.247945908896845, 41.623175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624940,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.564184660291556, 41.34422715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249876,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.740198815592983, 41.4759218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249882,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.672912440626988, 41.5360118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624942,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.781380171668477, 41.50893675 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624943,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.851792940049137, 41.5256477 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624937,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.609414974009113, 41.3167999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249884,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.583741768155136, 41.4459849 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624939,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.53341146046788, 41.34216065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624944,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.599199549410905, 41.3758018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625052,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.947848989517254, 41.4232073 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250104,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.70645405747559, 41.0969991 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250110,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.661653593650563, 41.07939715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625054,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.65093016309565, 41.37524585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250118,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.110870325858926, 41.33111195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625057,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.719276375043037, 41.2068323 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625059,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.83181462810297, 41.1878089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250094,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.93209492812703, 41.2285262 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250122,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.757024692585354, 41.2911637 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250114,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.645014507773126, 41.12230445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625286,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.74452595864748, 41.0478365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250574,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.324423724822708, 41.30139475 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625281,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.480482316777433, 41.0886087 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250600,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.790492771581757, 41.0814361 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625280,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.162384491310654, 41.215134 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250594,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.250374105796702, 41.11787155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625310,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.023181577515565, 41.1262776 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250582,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.049536927382988, 41.06615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625287,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.430753153253008, 41.33885855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250570,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.118360739238494, 41.1469292 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625285,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.146250092404514, 41.100206 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625292,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.540795565694737, 41.0712064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250564,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.72989407682953, 41.03532225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250588,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.745114778798513, 41.0884654 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625749,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.6713660167293, 41.02167855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251484,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.608344949318884, 40.9593051 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251482,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.68956792609114, 40.72227415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251502,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.72202955572957, 40.65496185 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625735,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.700413165387666, 40.74977955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251488,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.663760084043012, 40.8133881 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251516,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.641694719262418, 40.67569955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625746,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.838436663096168, 40.54740005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625744,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.705932557516565, 40.86040805 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625739,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.61802556984644, 40.77884025 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251518,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.75833352105563, 40.99367705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251480,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.61560341803054, 41.02824105 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251506,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.629815615839654, 40.72649975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251486,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.72180523978, 40.7725127 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625750,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.48059492635346, 40.67708535 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625758,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.427165248740323, 40.80368435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251498,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.761233026195658, 40.8430306 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625751,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.76826623391809, 40.92601695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625757,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.785977775499, 40.9763606 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625745,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.611956059763706, 40.60212745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251478,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.575466559005086, 40.89993575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251496,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.613250245310674, 40.8431395 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625742,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.68705910315706, 40.91707325 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251492,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.687044033136516, 40.97439115 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251500,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.836790457648313, 40.507016 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251472,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.70119845491536, 40.55038945 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251504,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.584024690032912, 40.6737798 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625741,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.56044971340522, 40.7268262 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625748,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.555798632164496, 40.7430422 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625738,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.782045198708943, 40.55871225 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251510,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.52161440849545, 40.62222975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251470,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.791322133858763, 40.46691685 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626142,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.794743593093962, 40.71586615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252282,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.36579389586037, 40.546647 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252300,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.780812980345154, 40.7918714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626149,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.954382517213055, 40.7049677 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252296,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.824086426500806, 40.8161623 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252290,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.357003617807308, 40.47483065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252284,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.09375837814819, 40.63760215 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252286,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.95797769246382, 40.67934415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626153,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.317405537930277, 40.59839165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252580,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.805808286689107, 40.7888307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252588,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.902631799526958, 40.61331965 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626292,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.485168154641656, 40.6044538 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252574,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.520493358595516, 40.40893195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252570,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.606323765778424, 40.82443955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252578,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.548246986948282, 40.50020785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252604,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.691750856605992, 40.4354311 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626301,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.966792625381327, 40.7035788 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626285,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.539732517237265, 40.98228835 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252598,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.709571423502496, 40.52921955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626293,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.69360835756033, 40.6131487 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626298,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.70697293474744, 40.77035995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626284,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.533443569232453, 40.9058018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252568,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.548251275761714, 40.31599135 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252592,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.838901531654493, 40.72304795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252590,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.74180752507098, 40.7208146 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626300,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.65607636742046, 40.7027024 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626299,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.600724821819565, 40.6246844 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252582,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.591695023559787, 40.2656681 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626302,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.613827532149948, 41.0003556 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253932,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.021584289974623, 40.45402565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253888,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.02155012341465, 40.3435103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626954,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.218758937786433, 40.10062115 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626958,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.95132566755381, 40.43516165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626964,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.43513303674777, 40.3512949 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626953,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.87380191082959, 40.45831565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626945,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.879945305544283, 40.4080797 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626960,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.208444933992254, 40.33534785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626955,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.983968905577463, 40.17787765 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626962,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.33929642328741, 40.30114595 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253912,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.392551356414657, 40.22324975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626948,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.913985016782565, 40.23992895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626961,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.846615155360684, 40.3422989 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626959,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.997910210651405, 40.2873919 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253910,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.15851625078721, 40.0417497 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253904,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.172084615508403, 40.37526275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253918,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.134776051386797, 40.43792815 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626963,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.173205082215713, 40.1327712 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253906,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.390296529198586, 40.07985445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253930,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.112249461509478, 40.07106165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255536,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.738969449230524, 40.38222285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627761,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.75050176769241, 40.1968867 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255524,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.14847374823225, 39.9161326 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255544,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.663240511277454, 40.46573525 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255526,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.651544918964788, 40.5214935 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255528,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.596397504992037, 40.39161385 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255550,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.21255337968607, 39.85019985 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627766,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.705491955324888, 40.29651865 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627762,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.537422386011137, 40.5406731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255542,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.090346297091358, 39.97203545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255532,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.00149829615517, 40.0033103 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255548,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.142267027817784, 39.6851406 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627763,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.201106977977602, 39.78084215 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627764,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.063465890166253, 39.81702785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627773,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.050831122485498, 39.8991316 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625053,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9270031038923, 41.25488155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253908,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.501243651182236, 40.12730855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250596,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.209741565634257, 41.3035458 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624773,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.93572455101853, 41.5870922 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249562,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.01083345389064, 41.6108094 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 170792718,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.01083345389064, 41.6108094 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626290,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.778459264467827, 40.61788765 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626282,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.774753317774685, 40.6467087 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626950,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.131583269892822, 40.18454375 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626951,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.026645697709856, 40.11448825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248546,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.155957611013264, 42.3418231 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248554,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.47614665936491, 41.8977117 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626148,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.09517821178984, 40.60162695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252294,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.195041808107344, 40.57825165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252306,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.316466372354373, 40.40193455 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626152,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.195371685727366, 40.49741155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255530,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.059260235296783, 39.7339566 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627767,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.905313535386135, 40.01516615 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627768,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.989034666631156, 39.76772065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625050,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.513653849854663, 41.08065105 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 3238438,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.519891388062216, 41.31754155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250610,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.32381679982906, 41.2119415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624782,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.437667556210904, 41.51140195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 3240822,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.483155300026564, 41.50424305 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624767,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.456654541113906, 41.43173545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 6483648,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.719757372717552, 41.0360971 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 3241819,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.776476839682914, 41.06387285 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 6485676,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.977559896316023, 40.90511445 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626143,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.842236115857784, 40.7391336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626150,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.890931742862286, 40.8074117 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252564,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.800442742135935, 40.57268715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625308,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.92470411684775, 41.1580978 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252600,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.67832567227301, 40.34088705 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249570,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.422312061485982, 41.7882499 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624778,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.38341068880144, 41.72494495 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624779,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.483482387111636, 41.6754719 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 3445434,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.56807770979767, 41.61069365 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626283,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.658930191054218, 40.89793065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250124,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.958824584155458, 41.21107795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250608,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.041802491779663, 41.2080642 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252586,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.72268997044155, 40.33560125 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252292,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.01475218085826, 40.56527675 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252298,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.12071026344522, 40.52416335 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627770,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.037005359474975, 39.84423535 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253916,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.26441266107703, 40.18351065 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253922,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.262357957408156, 40.0456066 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624463,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.036042273425444, 41.8766137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624134,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.002084865032096, 41.93914895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250598,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.467169485944904, 41.166477 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248544,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.516559608768656, 42.11330435 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249556,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.495404812841453, 41.5961252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248282,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.52709575688425, 41.9551678 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248276,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.41946461395899, 42.02265175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624137,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.488470675839963, 41.99571825 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248264,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.41905568782439, 41.9765948 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248266,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.78537040505971, 42.22177785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624145,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.95789783077621, 42.17997505 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248290,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.672555308951274, 42.24664565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624143,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.59591293825808, 42.1337742 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248288,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.720486089503574, 42.12673665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624139,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.811219110814825, 42.1538632 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624149,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.511333171645525, 42.1717173 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624135,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.361651125535722, 42.2015792 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248296,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.43085014106221, 42.21347695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248918,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.674292599698113, 41.8950569 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248292,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.69941930214482, 41.9494972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248278,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.69560172204382, 42.02393085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624147,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.982222636497795, 42.0464743 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624138,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.822503127149872, 42.0140035 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248298,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.893310884697375, 42.0990953 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624132,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.005169743408285, 42.0933126 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248274,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.08777349761363, 42.0597527 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248548,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.220936081718506, 42.2677803 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624140,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0619195276154, 42.2103631 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624273,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.023731291314373, 42.35611625 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624281,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.91704378311855, 42.3100294 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624275,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.37531022690409, 42.2440261 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624269,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.48183873039538, 42.15138345 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624270,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.364524167100377, 42.07141165 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248556,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.43970092145389, 42.0426972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248536,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.422596794861896, 41.9922897 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626287,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.70466054436178, 40.8816956 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624941,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.64136502718668, 41.47379605 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625051,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.645074067510738, 41.43269535 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1253924,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.188724284457237, 39.9849202 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248294,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.47858309287404, 42.09431045 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624144,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.574887585406614, 42.04818195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624133,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.471451227261113, 42.329841 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627769,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.762047136069473, 40.1231782 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 367649701,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.633956563536316, 40.14394075 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624150,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.409089571208284, 42.06371585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248552,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.51527873769809, 41.9651189 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249878,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.488981981749234, 41.40290895 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624936,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.562801983745196, 41.5325064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250112,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.874821945553673, 41.30243955 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626291,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.881516833718415, 40.8332731 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624272,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.531900206645094, 42.0547603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248550,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.581902920655352, 41.9763271 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625737,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.751976687285485, 40.702388 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625736,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.789070139158277, 40.6488565 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625740,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.79599209910483, 40.6172775 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252280,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.87694938009067, 40.6276209 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624282,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.127150644327347, 42.4555711 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248270,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.662623875200367, 42.51509745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251474,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.73298754311657, 40.595354 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251490,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.709000828904855, 40.6212361 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1248564,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.931002628967484, 42.4348568 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 10221584,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.368648083135284, 42.08001855 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624781,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.485324843310515, 41.38791415 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 6479384,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.603791926458168, 41.1138593 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625294,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.578425458212024, 41.1011109 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626296,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.03272551719197, 40.6269048 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626289,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.776580025434328, 40.86011195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252596,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.59272160085287, 40.16685305 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626956,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.326273974753207, 39.86943025 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627772,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.218451531350844, 39.7011751 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252594,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.866216040015395, 40.50265995 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 15969334,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.8270064111109, 40.38542795 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250100,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.698603180635182, 41.37995915 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625047,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.72102973798296, 41.3437039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249544,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.517974816961704, 41.81284975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625060,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.619860635289246, 41.19094505 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625061,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.564065620841014, 41.1347833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250096,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.555486472148356, 41.183307 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1255522,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.53198765707715, 40.4783863 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 627774,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.43801639366088, 40.6031847 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625754,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.430575461693934, 40.71672555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625755,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.507550272816395, 40.8458832 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251512,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.430725435396226, 40.9056287 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250102,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.520878476600224, 41.05591725 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250116,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.508420818002264, 41.16175195 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1250108,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.548670477917835, 41.2169735 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249886,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.52728791689266, 41.317051 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249888,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.456571857725606, 41.3313823 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249880,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.533113010249128, 41.4276846 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624459,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.62488330323702, 41.6253813 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624469,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.63123626249489, 41.70270155 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624458,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.614937890681045, 41.78546135 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 624148,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.413135938242768, 41.89826885 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1251476,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.534754900681264, 40.98541595 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625049,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.90959481694824, 41.33678475 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625299,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.218529701143378, 41.02173385 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625301,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.10011529958903, 40.9089384 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626141,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.056229901968322, 40.7185543 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626145,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.966445447330226, 40.75002585 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625284,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.100268923480694, 40.82238005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1252566,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.541823523352065, 40.7549111 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626146,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.237298010223125, 40.6851051 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625293,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.252338921898733, 40.7734037 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 626288,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.41977113895748, 40.6714145 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625307,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.270689291196845, 40.8190485 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625290,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.364342140430097, 40.84966665 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 1249874,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.734353617136613, 41.44038025 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 9811330,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.77451238239608, 41.38413175 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625048,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.809316675429088, 41.4077833 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625058,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.762078600397572, 41.3776064 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 9811331,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.786162707172473, 41.3744737 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625298,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.29024803865745, 40.9782972 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625289,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.020175676148313, 40.904115 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625306,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.0263904315522, 40.9639642 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625300,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.968957807278475, 41.0283913 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625302,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.09805637231128, 41.0104576 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625296,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.185534817464116, 40.8658889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625291,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.953067787046635, 40.906219 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625303,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.826152763068354, 41.0131124 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625297,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.887509798925347, 40.9800714 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625283,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.837635985319576, 40.90857575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 625747,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.78968005582932, 40.8808409 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 3869626,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.020304775221593, 41.11120785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "boundary_id" : 7739252,
+      "osm_id" : null,
+      "from_osm" : "false"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.136264707309067, 40.3685903 ]
+    }
+  } ]
+}
