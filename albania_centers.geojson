@@ -703,29 +703,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 54939142,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.23328124429439, 40.50050755 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 1252576,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.993352103888274, 40.62748275 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 27469785,
       "osm_id" : null,
       "from_osm" : "false"
     },
@@ -747,29 +725,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 55284746,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.916844774432203, 40.80087015 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 626295,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.601060372004333, 40.15409655 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 55287398,
       "osm_id" : null,
       "from_osm" : "false"
     },
@@ -791,29 +747,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 27727635,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.264396442520074, 40.0318745 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 625305,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.324631112644102, 41.18129455 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 55455286,
       "osm_id" : null,
       "from_osm" : "false"
     },
@@ -835,29 +769,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 27728414,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.982395611438243, 40.34827825 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 626965,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.35137447412339, 40.23468805 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 55532416,
       "osm_id" : null,
       "from_osm" : "false"
     },
@@ -879,40 +791,7 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 55532872,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.431276634489606, 41.6837479 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 27769555,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.280195452991745, 40.4941353 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 1255546,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.638237034525503, 40.5326814 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 27912121,
       "osm_id" : null,
       "from_osm" : "false"
     },
@@ -930,28 +809,6 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 20.017047467515518, 40.29798095 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 27997309,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.017047467515518, 40.29798095 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 27997571,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.391642586353356, 40.81957045 ]
     }
   }, {
     "type" : "Feature",
@@ -3024,17 +2881,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "boundary_id" : 170792718,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.01083345389064, 41.6108094 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "boundary_id" : 626290,
       "osm_id" : null,
       "from_osm" : "false"
@@ -3944,17 +3790,6 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 19.762047136069473, 40.1231782 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "boundary_id" : 367649701,
-      "osm_id" : null,
-      "from_osm" : "false"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.633956563536316, 40.14394075 ]
     }
   }, {
     "type" : "Feature",
